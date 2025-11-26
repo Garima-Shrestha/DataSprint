@@ -1,0 +1,582 @@
+user_id,country,age,gender,subscription_type,avg_listening_hours_per_week,total_songs_played,skip_rate,satisfaction_score,churned,monthly_fee,join_date,age_group,churn_probability,risk_label,customer_tenure_months,tenure_group,fee_per_listening_hour,value_perception_tier
+U1403,Nepal,23,female,premium,11.5,510,0.2,2.0,0,7.99,2024-03-21,"(20, 30]",0.205,low_risk,8.6,Mid_Term,0.16045787729691735,Medium_Value
+U1165,Nepal,63,male,student,11.3,526,0.2,3.0,0,0.0,2023-08-10,"(60, 100]",0.11,low_risk,16.0,Mid_Term,0.0,High_Value_Low_Fee
+U1474,United States,45,female,premium,2.0,476,0.2,3.0,0,7.99,2022-04-05,"(40, 50]",0.285,low_risk,32.1,Loyal,0.9226327944572749,Low_Value_High_Fee
+U1609,Ghana,29,male,free,6.4,477,0.2,3.0,0,7.99,2022-03-28,"(20, 30]",0.095,low_risk,32.4,Loyal,0.28832274826789833,Low_Value_High_Fee
+U1691,United Kingdom,16,female,student,11.0,548,0.2,3.0,0,9.99,2022-04-25,"(10, 20]",0.16,low_risk,31.5,Loyal,0.20974175939533907,Medium_Value
+U1262,Nigeria,59,unknown,free,7.4,502,0.2,1.0,1,9.99,2022-11-07,"(50, 60]",0.74,high_risk,25.0,Loyal,0.3117782909930716,Low_Value_High_Fee
+U1490,United Kingdom,57,female,premium,11.3,476,0.2,3.0,0,7.99,2022-01-12,"(50, 60]",0.215,low_risk,34.9,Loyal,0.1632978397269513,Medium_Value
+U1514,India,23,female,student,21.5,514,0.2,3.0,0,9.99,2022-12-02,"(20, 30]",0.22,low_risk,24.2,Loyal,0.10730973736505721,High_Value_Low_Fee
+U1412,United States,41,male,premium,7.5,494,0.2,1.0,0,7.99,2022-10-24,"(40, 50]",0.13,low_risk,25.5,Loyal,0.24603541185527328,Low_Value_High_Fee
+U1503,Nigeria,39,male,family,18.7,482,0.2,5.0,0,5.0,2022-11-07,"(30, 40]",0.55,low_risk,25.0,Loyal,0.06175050326660162,High_Value_Low_Fee
+U1158,Kenya,64,male,student,7.6,440,0.2,5.0,0,7.99,2022-09-05,"(60, 100]",0.435,low_risk,27.1,Loyal,0.242798103804546,Low_Value_High_Fee
+U1387,United Kingdom,49,female,free,11.2,508,0.2,5.0,1,9.99,2022-05-02,"(40, 50]",0.29,low_risk,31.2,Loyal,0.20599637083470804,Medium_Value
+U1120,Ghana,46,male,student,11.2,509,0.2,5.0,1,9.99,2023-02-15,"(40, 50]",0.74,high_risk,21.7,Loyal,0.20599637083470804,Medium_Value
+U1258,United States,59,female,premium,3.7,507,0.2,4.0,1,7.99,2022-11-07,"(50, 60]",0.755,high_risk,25.0,Loyal,0.49872042943636474,Low_Value_High_Fee
+U1574,Ghana,38,female,family,1.5,458,0.2,1.0,1,7.99,2023-09-17,"(30, 40]",0.705,high_risk,14.7,Mid_Term,1.2301770592763666,Low_Value_High_Fee
+U1149,Nigeria,50,male,free,11.8,527,0.2,2.0,0,7.99,2024-06-29,"(40, 50]",0.135,low_risk,5.3,New_User,0.15637843973852117,Medium_Value
+U1508,United Kingdom,48,female,family,8.7,511,0.2,4.0,1,0.0,2022-09-18,"(40, 50]",0.74,high_risk,26.7,Loyal,0.0,High_Value_Low_Fee
+U1304,Nepal,18,female,family,9.5,454,0.2,1.0,0,9.99,2024-10-06,"(10, 20]",0.04,low_risk,2.1,New_User,0.2428588792998663,Low_Value_High_Fee
+U1107,South Africa,33,unknown,premium,14.6,512,0.2,2.0,0,0.0,2023-02-03,"(30, 40]",0.13,low_risk,22.1,Loyal,0.0,High_Value_Low_Fee
+U1568,Nigeria,33,unknown,premium,11.0,522,0.2,3.0,1,7.99,2022-11-07,"(30, 40]",0.795,high_risk,25.0,Loyal,0.16775141717404995,Medium_Value
+U1116,India,13,male,student,10.4,478,0.2,3.0,0,9.99,2022-11-07,"(10, 20]",0.055,low_risk,25.0,Loyal,0.22184224551430093,Medium_Value
+U1424,United kingdom,26,female,student,9.5,498,0.2,3.0,0,9.99,2022-11-10,"(20, 30]",0.165,low_risk,24.9,Loyal,0.2428588792998663,Low_Value_High_Fee
+U1038,United Kingdom,48,male,free,6.7,485,0.2,2.0,0,9.99,2023-02-21,"(40, 50]",0.125,low_risk,21.6,Loyal,0.34435214229085515,Low_Value_High_Fee
+U1649,Kenya,16,female,family,4.5,482,0.2,1.0,0,7.99,2023-09-09,"(10, 20]",0.115,low_risk,15.0,Mid_Term,0.41005901975878883,Low_Value_High_Fee
+U1161,India,36,female,free,9.2,481,0.2,3.0,0,7.99,2022-09-27,"(30, 40]",0.055,low_risk,26.4,Loyal,0.2005723466211467,Medium_Value
+U1432,Nigeria,52,female,free,8.0,496,0.2,1.0,0,7.99,2022-11-12,"(50, 60]",0.125,low_risk,24.9,Loyal,0.23065819861431872,Low_Value_High_Fee
+U1097,United States,17,male,family,7.8,473,0.2,1.0,0,5.0,2023-09-22,"(10, 20]",0.065,low_risk,14.6,Mid_Term,0.14804287321608336,Medium_Value
+U1673,United States,20,female,student,15.2,517,0.2,1.0,0,5.0,2024-05-21,"(10, 20]",0.065,low_risk,6.6,Mid_Term,0.07596936915035857,High_Value_Low_Fee
+U1561,Nigeria,58,male,premium,7.5,524,0.1,1.0,1,7.99,2023-05-18,"(50, 60]",0.84,high_risk,18.7,Loyal,0.24603541185527328,Low_Value_High_Fee
+U1033,Brazil,24,male,student,10.9,500,0.2,2.0,0,5.0,2022-11-07,"(20, 30]",0.23,low_risk,25.0,Loyal,0.10593893679683031,High_Value_Low_Fee
+U1150,Nigeria,62,male,premium,12.8,459,0.2,5.0,0,7.99,2022-11-07,"(60, 100]",0.44,low_risk,25.0,Loyal,0.14416137413394917,Medium_Value
+U1452,Nepal,63,male,family,10.7,528,0.2,4.0,0,7.99,2022-11-07,"(60, 100]",0.17,low_risk,25.0,Loyal,0.17245472793593924,Medium_Value
+U1382,United kingdom,25,other,premium,9.0,442,0.2,5.0,0,9.99,2022-11-07,"(20, 30]",0.155,low_risk,25.0,Loyal,0.25635103926096997,Low_Value_High_Fee
+U1086,United States,46,female,family,10.5,520,0.2,3.0,0,5.0,2023-04-13,"(40, 50]",0.05,low_risk,19.9,Loyal,0.10997470581766193,High_Value_Low_Fee
+U1021,United States,43,male,family,12.3,535,0.2,5.0,1,9.99,2022-11-07,"(40, 50]",0.73,high_risk,25.0,Loyal,0.18757393116656337,Medium_Value
+U1136,Brazil,60,female,family,3.7,482,0.2,3.0,0,7.99,2023-02-03,"(50, 60]",0.12,low_risk,22.1,Loyal,0.49872042943636474,Low_Value_High_Fee
+U1173,United States,29,male,family,12.5,475,0.2,4.0,1,7.99,2022-11-07,"(20, 30]",0.735,high_risk,25.0,Loyal,0.147621247113164,Medium_Value
+U1615,India,40,male,premium,7.7,493,0.2,2.0,0,7.99,2022-07-09,"(30, 40]",0.175,low_risk,29.0,Loyal,0.23964488167721423,Low_Value_High_Fee
+U1543,United States,54,male,family,6.7,542,0.2,5.0,0,9.99,2024-02-07,"(50, 60]",0.215,low_risk,10.0,Mid_Term,0.34435214229085515,Low_Value_High_Fee
+U1133,United States,42,other,student,14.4,491,0.2,1.0,0,9.99,2023-05-08,"(40, 50]",0.245,low_risk,19.1,Loyal,0.16021939953810624,Medium_Value
+U1373,India,45,female,student,13.3,530,0.2,4.0,0,7.99,2023-12-05,"(40, 50]",0.115,low_risk,12.1,Mid_Term,0.1387417736025977,Medium_Value
+U1511,Nigeria,39,unknown,free,10.7,531,0.2,2.0,1,9.99,2022-11-07,"(30, 40]",0.775,high_risk,25.0,Loyal,0.21562236947184393,Medium_Value
+U1618,India,19,male,student,10.0,472,0.2,1.0,0,7.99,2022-09-24,"(10, 20]",0.055,low_risk,26.5,Loyal,0.18452655889145497,Medium_Value
+U1281,Nigeria,25,unknown,family,4.5,483,0.2,3.0,0,7.99,2023-01-09,"(20, 30]",0.14,low_risk,23.0,Loyal,0.41005901975878883,Low_Value_High_Fee
+U1454,United Kingdom,63,female,free,11.3,492,0.2,1.0,0,9.99,2022-09-09,"(60, 100]",0.12,low_risk,27.0,Loyal,0.2041733941016575,Medium_Value
+U1283,Kenya,37,male,student,7.1,490,0.2,3.0,0,0.0,2022-02-18,"(30, 40]",0.145,low_risk,33.6,Loyal,0.0,High_Value_Low_Fee
+U1006,Nigeria,33,other,student,4.6,518,0.2,3.0,0,9.99,2022-11-07,"(30, 40]",0.12,low_risk,25.0,Loyal,0.5015563811627674,Low_Value_High_Fee
+U1616,United Kingdom,52,unknown,family,9.8,507,0.2,3.0,0,7.99,2022-03-20,"(50, 60]",0.215,low_risk,32.7,Loyal,0.18829240703209688,Medium_Value
+U1308,India,57,other,free,4.4,513,0.2,1.0,0,7.99,2022-03-11,"(50, 60]",0.135,low_risk,33.0,Loyal,0.4193785429351249,Low_Value_High_Fee
+U1386,Nigeria,13,male,free,11.0,510,0.2,2.0,0,9.99,2024-01-22,"(10, 20]",0.16,low_risk,10.5,Mid_Term,0.20974175939533907,Medium_Value
+U1034,Brazil,36,female,student,8.9,471,0.2,4.0,0,0.0,2022-11-07,"(30, 40]",0.175,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1044,India,49,male,premium,12.5,532,0.2,5.0,0,0.0,2023-11-08,"(40, 50]",0.155,low_risk,13.0,Mid_Term,0.0,High_Value_Low_Fee
+U1686,United States,26,other,student,15.8,494,0.2,2.0,0,7.99,2023-04-25,"(20, 30]",0.09,low_risk,19.5,Loyal,0.11678896132370567,High_Value_Low_Fee
+U1429,Ghana,54,unknown,free,6.0,480,0.2,2.0,0,9.99,2024-08-01,"(50, 60]",0.135,low_risk,4.2,New_User,0.384526558891455,Low_Value_High_Fee
+U1426,Kenya,16,female,premium,10.2,523,0.2,4.0,0,7.99,2022-11-07,"(10, 20]",0.105,low_risk,25.0,Loyal,0.1809083910700539,Medium_Value
+U1695,United Kingdom,26,other,free,15.5,504,0.1,5.0,1,0.0,2022-11-07,"(20, 30]",0.395,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1390,United kingdom,21,male,free,11.3,506,0.2,3.0,0,9.99,2022-08-05,"(20, 30]",0.17,low_risk,28.1,Loyal,0.2041733941016575,Medium_Value
+U1152,United Kingdom,30,unknown,family,7.0,494,0.2,3.0,1,9.99,2022-07-11,"(20, 30]",0.815,high_risk,28.9,Loyal,0.3295941933355328,Low_Value_High_Fee
+U1378,India,35,unknown,premium,7.3,526,0.2,4.0,1,7.99,2023-03-10,"(30, 40]",0.78,high_risk,21.0,Loyal,0.2527761080704863,Low_Value_High_Fee
+U1335,United Kingdom,40,male,family,10.4,490,0.1,3.0,0,5.0,2022-11-07,"(30, 40]",0.09,low_risk,25.0,Loyal,0.11103215491206253,High_Value_Low_Fee
+U1551,United States,52,female,premium,7.3,516,0.2,3.0,1,0.0,2022-11-07,"(50, 60]",0.215,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1565,Ghana,63,unknown,premium,15.8,463,0.2,3.0,0,7.99,2024-07-01,"(60, 100]",0.065,low_risk,5.3,New_User,0.11678896132370567,High_Value_Low_Fee
+U1487,India,43,male,family,10.2,474,0.2,4.0,0,7.99,2023-02-23,"(40, 50]",0.07,low_risk,21.5,Loyal,0.1809083910700539,Medium_Value
+U1670,Nepal,15,male,family,9.9,485,0.2,4.0,1,5.0,2023-07-02,"(10, 20]",0.305,low_risk,17.2,Mid_Term,0.11663983950358082,High_Value_Low_Fee
+U1685,India,36,female,premium,17.5,490,0.2,3.0,0,5.0,2022-11-07,"(30, 40]",0.12,low_risk,25.0,Loyal,0.06598482349059716,High_Value_Low_Fee
+U1242,United Kingdom,27,unknown,family,7.8,525,0.2,5.0,1,7.99,2022-09-06,"(20, 30]",0.865,high_risk,27.1,Loyal,0.23657251139930124,Low_Value_High_Fee
+U1466,Nigeria,45,male,student,13.3,504,0.2,3.0,0,0.0,2022-04-25,"(40, 50]",0.16,low_risk,31.5,Loyal,0.0,High_Value_Low_Fee
+U1180,United States,25,female,premium,10.2,542,0.1,5.0,0,0.0,2022-12-11,"(20, 30]",0.175,low_risk,23.9,Loyal,0.0,High_Value_Low_Fee
+U1094,Ghana,29,male,student,15.8,481,0.2,5.0,0,5.0,2024-08-17,"(20, 30]",0.105,low_risk,3.7,New_User,0.07308445639781332,High_Value_Low_Fee
+U1410,Ghana,52,female,premium,9.5,513,0.2,5.0,0,9.99,2023-09-04,"(50, 60]",0.11,low_risk,15.1,Mid_Term,0.2428588792998663,Low_Value_High_Fee
+U1079,Nigeria,38,female,student,13.8,519,0.1,2.0,0,9.99,2023-04-10,"(30, 40]",0.53,low_risk,20.0,Loyal,0.1671854603875891,Medium_Value
+U1250,Brazil,36,female,student,19.3,530,0.2,2.0,0,7.99,2023-02-10,"(30, 40]",0.13,low_risk,21.9,Loyal,0.09560961600593522,High_Value_Low_Fee
+U1407,Nigeria,47,male,family,0.2,511,0.2,1.0,0,0.0,2022-11-06,"(40, 50]",0.415,low_risk,25.1,Loyal,0.0,High_Value_Low_Fee
+U1041,India,62,other,free,10.3,466,0.2,1.0,0,7.99,2022-11-07,"(60, 100]",0.125,low_risk,25.0,Loyal,0.17915199892374267,Medium_Value
+U1632,Nigeria,42,female,free,12.6,497,0.2,3.0,1,7.99,2022-06-04,"(40, 50]",0.675,high_risk,30.2,Loyal,0.14644964991385315,Medium_Value
+U1656,United kingdom,22,female,family,7.8,505,0.2,3.0,1,9.99,2023-02-06,"(20, 30]",0.765,high_risk,22.0,Loyal,0.2957896606857346,Low_Value_High_Fee
+U1211,United States,34,female,premium,5.9,489,0.2,2.0,0,9.99,2022-11-07,"(30, 40]",0.36,low_risk,25.0,Loyal,0.39104395819469995,Low_Value_High_Fee
+U1611,United States,53,unknown,premium,4.1,503,0.1,4.0,0,9.99,2022-11-07,"(50, 60]",0.505,low_risk,25.0,Loyal,0.5627217934996902,Low_Value_High_Fee
+U1356,India,31,male,premium,5.1,495,0.2,5.0,0,5.0,2022-12-09,"(30, 40]",0.325,low_risk,24.0,Loyal,0.2264185119775393,Low_Value_High_Fee
+U1583,United Kingdom,19,male,free,14.2,512,0.2,3.0,0,7.99,2022-05-07,"(10, 20]",0.23,low_risk,31.1,Loyal,0.12994828090947533,Medium_Value
+U1313,Nepal,33,female,family,11.7,469,0.2,3.0,0,9.99,2024-08-04,"(30, 40]",0.045,low_risk,4.1,New_User,0.1971931071238231,Medium_Value
+U1617,Nigeria,61,male,premium,4.3,482,0.1,3.0,0,9.99,2022-11-07,"(60, 100]",0.465,low_risk,25.0,Loyal,0.536548686825286,Low_Value_High_Fee
+U1205,Ghana,31,male,free,4.4,486,0.2,3.0,1,9.99,2022-05-01,"(30, 40]",0.15,low_risk,31.3,Loyal,0.5243543984883476,Low_Value_High_Fee
+U1365,India,26,female,family,16.8,513,0.2,4.0,0,9.99,2024-08-07,"(20, 30]",0.28,low_risk,4.0,New_User,0.13733091388980534,Medium_Value
+U1567,India,27,female,premium,1.3,480,0.2,1.0,0,7.99,2022-11-07,"(20, 30]",0.36,low_risk,25.0,Loyal,1.4194350683958072,Low_Value_High_Fee
+U1249,Nepal,26,male,student,12.9,464,0.2,2.0,0,5.0,2022-07-31,"(20, 30]",0.12,low_risk,28.3,Loyal,0.08951429543298065,High_Value_Low_Fee
+U1292,United States,59,female,premium,8.5,525,0.2,3.0,0,7.99,2022-11-07,"(50, 60]",0.415,low_risk,25.0,Loyal,0.21709006928406469,Medium_Value
+U1689,Kenya,55,male,family,15.0,534,0.2,4.0,1,0.0,2022-12-19,"(50, 60]",0.72,high_risk,23.7,Loyal,0.0,High_Value_Low_Fee
+U1453,India,51,female,premium,15.5,502,0.2,2.0,0,9.99,2022-12-15,"(50, 60]",0.1,low_risk,23.8,Loyal,0.14884899053862774,Medium_Value
+U1434,Nepal,51,female,family,7.5,487,0.2,3.0,0,9.99,2022-11-26,"(50, 60]",0.07,low_risk,24.4,Loyal,0.30762124711316396,Low_Value_High_Fee
+U1448,United States,14,male,premium,5.2,523,0.2,4.0,0,0.0,2022-11-07,"(10, 20]",0.215,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1489,Kenya,48,female,premium,15.8,493,0.2,5.0,1,5.0,2023-12-10,"(40, 50]",0.74,high_risk,12.0,Mid_Term,0.07308445639781332,High_Value_Low_Fee
+U1196,India,37,male,premium,14.1,528,0.2,2.0,1,7.99,2022-01-03,"(30, 40]",0.685,high_risk,35.2,Loyal,0.1308698999230177,Medium_Value
+U1187,Ghana,35,male,premium,10.4,513,0.2,3.0,1,0.0,2022-10-01,"(30, 40]",0.815,high_risk,26.2,Loyal,0.0,High_Value_Low_Fee
+U1169,Ghana,16,male,family,9.3,534,0.2,3.0,1,5.0,2022-11-07,"(10, 20]",0.7,high_risk,25.0,Loyal,0.12416499043929571,High_Value_Low_Fee
+U1028,Nigeria,22,female,premium,4.1,512,0.2,3.0,0,7.99,2023-10-30,"(20, 30]",0.155,low_risk,13.3,Mid_Term,0.45006477778403653,Low_Value_High_Fee
+U1683,United States,47,male,family,8.3,500,0.2,3.0,0,9.99,2023-11-18,"(40, 50]",0.08,low_risk,12.7,Mid_Term,0.27797100642755773,Low_Value_High_Fee
+U1675,Kenya,49,unknown,student,5.8,507,0.1,3.0,0,7.99,2022-11-07,"(40, 50]",0.155,low_risk,25.0,Loyal,0.3181492394680258,Low_Value_High_Fee
+U1597,United Kingdom,36,female,student,13.9,525,0.1,3.0,0,5.0,2023-08-05,"(30, 40]",0.09,low_risk,16.1,Mid_Term,0.08307441806370146,High_Value_Low_Fee
+U1114,United Kingdom,25,male,student,4.0,484,0.2,5.0,0,5.0,2022-05-24,"(20, 30]",0.09,low_risk,30.5,Loyal,0.28868360277136257,Low_Value_High_Fee
+U1624,Brazil,63,female,family,1.0,503,0.2,5.0,1,9.99,2023-11-06,"(60, 100]",0.77,high_risk,13.1,Mid_Term,2.30715935334873,Low_Value_High_Fee
+U1505,India,63,female,premium,13.9,493,0.2,2.0,0,7.99,2023-04-18,"(60, 100]",0.23,low_risk,19.7,Loyal,0.13275292006579492,Medium_Value
+U1652,Ghana,41,female,student,11.5,474,0.2,3.0,0,7.99,2022-11-07,"(40, 50]",0.095,low_risk,25.0,Loyal,0.16045787729691735,Medium_Value
+U1602,Ghana,34,female,family,5.2,487,0.2,3.0,0,5.0,2022-11-07,"(30, 40]",0.125,low_risk,25.0,Loyal,0.22206430982412506,Medium_Value
+U1266,Kenya,47,other,family,15.2,483,0.2,3.0,0,7.99,2022-05-27,"(40, 50]",0.19,low_risk,30.4,Loyal,0.121399051902273,High_Value_Low_Fee
+U1575,India,53,other,student,6.8,469,0.2,5.0,0,5.0,2022-02-25,"(50, 60]",0.08,low_risk,33.4,Loyal,0.16981388398315447,Medium_Value
+U1411,South Africa,34,male,family,1.2,502,0.2,5.0,1,7.99,2024-04-04,"(30, 40]",0.79,high_risk,8.1,Mid_Term,1.5377213240954581,Low_Value_High_Fee
+U1310,United Kingdom,49,female,student,3.3,494,0.2,3.0,0,7.99,2023-07-23,"(40, 50]",0.065,low_risk,16.6,Mid_Term,0.5591713905801666,Low_Value_High_Fee
+U1011,South Africa,48,female,family,13.5,468,0.2,1.0,0,9.99,2023-10-02,"(40, 50]",0.115,low_risk,14.2,Mid_Term,0.17090069284064666,Medium_Value
+U1513,Nepal,32,male,premium,13.1,561,0.2,5.0,0,9.99,2023-02-23,"(30, 40]",0.32,low_risk,21.5,Loyal,0.17611903460677328,Medium_Value
+U1153,Kenya,42,female,premium,3.6,525,0.2,4.0,0,9.99,2022-11-07,"(40, 50]",0.535,low_risk,25.0,Loyal,0.640877598152425,Low_Value_High_Fee
+U1546,United Kingdom,43,male,free,14.2,489,0.2,4.0,0,5.0,2023-07-22,"(40, 50]",0.08,low_risk,16.6,Mid_Term,0.0813193247243275,High_Value_Low_Fee
+U1341,Nepal,42,male,premium,13.0,457,0.1,3.0,0,9.99,2022-04-01,"(40, 50]",0.105,low_risk,32.3,Loyal,0.17747379641144076,Medium_Value
+U1260,India,58,female,student,2.9,458,0.2,3.0,0,5.0,2022-11-07,"(50, 60]",0.065,low_risk,25.0,Loyal,0.39818427968463804,Low_Value_High_Fee
+U1530,United States,37,unknown,student,12.4,531,0.1,2.0,0,9.99,2022-11-07,"(30, 40]",0.115,low_risk,25.0,Loyal,0.18606123817328465,Medium_Value
+U1126,United kingdom,46,female,family,13.4,526,0.2,1.0,0,7.99,2022-11-07,"(40, 50]",0.075,low_risk,25.0,Loyal,0.13770638723242906,Medium_Value
+U1633,Nigeria,28,female,student,0.2,529,0.2,3.0,1,0.0,2022-11-07,"(20, 30]",0.66,high_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1496,Ghana,17,other,student,17.4,475,0.2,5.0,0,7.99,2022-03-24,"(10, 20]",0.14,low_risk,32.5,Loyal,0.10604974648934194,High_Value_Low_Fee
+U1674,Nepal,59,male,free,2.8,455,0.1,5.0,0,7.99,2022-11-07,"(50, 60]",0.175,low_risk,25.0,Loyal,0.6590234246123392,Low_Value_High_Fee
+U1566,Kenya,52,female,free,15.9,499,0.2,3.0,0,5.0,2022-02-23,"(50, 60]",0.125,low_risk,33.5,Loyal,0.07262480572864467,High_Value_Low_Fee
+U1394,Brazil,50,male,free,4.1,541,0.1,2.0,0,7.99,2024-02-12,"(40, 50]",0.195,low_risk,9.9,Mid_Term,0.45006477778403653,Low_Value_High_Fee
+U1170,India,22,other,family,14.4,493,0.2,3.0,1,9.99,2022-11-07,"(20, 30]",0.785,high_risk,25.0,Loyal,0.16021939953810624,Medium_Value
+U1192,Nepal,20,female,student,6.9,482,0.2,4.0,1,7.99,2022-08-21,"(10, 20]",0.755,high_risk,27.6,Loyal,0.26742979549486223,Low_Value_High_Fee
+U1232,India,55,other,student,6.9,512,0.2,3.0,0,7.99,2024-03-15,"(50, 60]",0.085,low_risk,8.8,Mid_Term,0.26742979549486223,Low_Value_High_Fee
+U1352,India,17,unknown,free,9.7,474,0.2,3.0,0,9.99,2022-10-20,"(10, 20]",0.085,low_risk,25.6,Loyal,0.2378514797266732,Low_Value_High_Fee
+U1031,Ghana,20,male,student,16.6,501,0.2,2.0,0,5.0,2022-11-07,"(10, 20]",0.105,low_risk,25.0,Loyal,0.06956231392081025,High_Value_Low_Fee
+U1035,Nigeria,40,female,premium,11.0,452,0.2,2.0,0,9.99,2022-09-26,"(30, 40]",0.08,low_risk,26.4,Loyal,0.20974175939533907,Medium_Value
+U1396,United kingdom,42,male,family,10.2,510,0.2,1.0,0,7.99,2024-07-02,"(40, 50]",0.095,low_risk,5.2,New_User,0.1809083910700539,Medium_Value
+U1414,Kenya,23,female,student,12.7,539,0.2,5.0,0,9.99,2024-07-07,"(20, 30]",0.175,low_risk,5.1,New_User,0.18166609081486063,Medium_Value
+U1593,United Kingdom,37,male,student,6.5,494,0.1,5.0,0,7.99,2022-11-07,"(30, 40]",0.195,low_risk,25.0,Loyal,0.28388701367916147,Low_Value_High_Fee
+U1177,Brazil,46,male,family,9.6,514,0.2,5.0,0,9.99,2022-11-07,"(40, 50]",0.14,low_risk,25.0,Loyal,0.24032909930715937,Low_Value_High_Fee
+U1370,India,25,unknown,free,3.9,513,0.2,3.0,0,7.99,2022-11-07,"(20, 30]",0.44,low_risk,25.0,Loyal,0.4731450227986025,Low_Value_High_Fee
+U1194,Brazil,52,female,premium,8.7,566,0.2,4.0,0,9.99,2022-11-07,"(50, 60]",0.46,low_risk,25.0,Loyal,0.265190730269969,Low_Value_High_Fee
+U1322,United kingdom,36,other,family,8.5,523,0.1,1.0,0,7.99,2023-04-25,"(30, 40]",0.12,low_risk,19.5,Loyal,0.21709006928406469,Medium_Value
+U1128,Kenya,62,female,free,7.7,511,0.2,2.0,0,7.99,2022-10-06,"(60, 100]",0.13,low_risk,26.1,Loyal,0.23964488167721423,Low_Value_High_Fee
+U1389,South Africa,29,female,family,10.0,508,0.2,4.0,0,9.99,2022-11-07,"(20, 30]",0.14,low_risk,25.0,Loyal,0.230715935334873,Low_Value_High_Fee
+U1353,United Kingdom,18,male,student,6.3,514,0.2,4.0,0,7.99,2023-04-02,"(10, 20]",0.13,low_risk,20.2,Loyal,0.2928992998277063,Low_Value_High_Fee
+U1470,Nigeria,39,other,premium,5.4,473,0.2,1.0,0,7.99,2024-01-02,"(30, 40]",0.355,low_risk,11.2,Mid_Term,0.34171584979899067,Low_Value_High_Fee
+U1140,India,49,male,student,13.2,476,0.2,2.0,0,7.99,2024-05-01,"(40, 50]",0.06,low_risk,7.3,Mid_Term,0.13979284764504166,Medium_Value
+U1699,Nepal,19,female,family,7.3,519,0.2,3.0,0,9.99,2022-09-19,"(10, 20]",0.1,low_risk,26.6,Loyal,0.3160492264861274,Low_Value_High_Fee
+U1582,United Kingdom,14,female,family,12.4,490,0.1,3.0,0,0.0,2022-12-08,"(10, 20]",0.42,low_risk,24.0,Loyal,0.0,High_Value_Low_Fee
+U1163,Brazil,42,male,family,14.6,565,0.2,4.0,0,7.99,2022-11-07,"(40, 50]",0.185,low_risk,25.0,Loyal,0.12638805403524314,High_Value_Low_Fee
+U1080,United States,37,male,premium,9.9,522,0.1,3.0,1,9.99,2022-04-25,"(30, 40]",0.755,high_risk,31.5,Loyal,0.23304639932815452,Low_Value_High_Fee
+U1425,United kingdom,38,male,family,16.1,456,0.1,3.0,0,7.99,2022-04-28,"(30, 40]",0.21,low_risk,31.4,Loyal,0.11461276949779811,High_Value_Low_Fee
+U1477,Nigeria,45,other,family,5.7,484,0.2,3.0,1,7.99,2022-11-11,"(40, 50]",0.7,high_risk,24.9,Loyal,0.323730805072728,Low_Value_High_Fee
+U1422,Kenya,17,female,premium,2.4,516,0.2,3.0,0,0.0,2023-07-18,"(10, 20]",0.465,low_risk,16.7,Mid_Term,0.0,High_Value_Low_Fee
+U1216,India,53,other,student,1.5,466,0.2,2.0,0,9.99,2024-07-08,"(50, 60]",0.09,low_risk,5.0,New_User,1.53810623556582,Low_Value_High_Fee
+U1049,Kenya,21,other,student,11.5,514,0.2,4.0,1,9.99,2022-11-07,"(20, 30]",0.79,high_risk,25.0,Loyal,0.20062255246510693,Medium_Value
+U1572,South Africa,22,male,student,10.3,494,0.2,4.0,1,0.0,2022-11-07,"(20, 30]",0.77,high_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1697,South Africa,60,female,student,6.3,510,0.2,1.0,1,7.99,2023-06-22,"(50, 60]",0.8,high_risk,17.6,Mid_Term,0.2928992998277063,Low_Value_High_Fee
+U1119,Nigeria,44,female,premium,10.5,515,0.1,2.0,0,5.0,2022-11-07,"(40, 50]",0.195,low_risk,25.0,Loyal,0.10997470581766193,High_Value_Low_Fee
+U1668,India,20,female,family,9.4,507,0.2,1.0,1,7.99,2022-06-01,"(10, 20]",0.68,high_risk,30.3,Loyal,0.19630484988452654,Medium_Value
+U1529,United Kingdom,30,male,family,7.1,494,0.2,4.0,1,9.99,2024-08-14,"(20, 30]",0.755,high_risk,3.8,New_User,0.3249520215984127,Low_Value_High_Fee
+U1090,United kingdom,33,female,free,0.2,499,0.2,2.0,0,9.99,2023-06-24,"(30, 40]",0.42,low_risk,17.5,Mid_Term,11.535796766743648,Low_Value_High_Fee
+U1259,Brazil,35,male,family,11.7,516,0.2,5.0,1,7.99,2022-11-07,"(30, 40]",0.745,high_risk,25.0,Loyal,0.1577150075995342,Medium_Value
+U1154,United Kingdom,27,female,premium,1.3,513,0.1,3.0,1,0.0,2022-09-03,"(20, 30]",0.475,low_risk,27.2,Loyal,0.0,High_Value_Low_Fee
+U1184,United Kingdom,23,female,family,21.5,528,0.2,5.0,0,9.99,2022-11-07,"(20, 30]",0.125,low_risk,25.0,Loyal,0.10730973736505721,High_Value_Low_Fee
+U1598,Ghana,45,female,free,5.1,526,0.1,4.0,0,7.99,2022-11-07,"(40, 50]",0.175,low_risk,25.0,Loyal,0.3618167821401078,Low_Value_High_Fee
+U1226,Kenya,21,male,student,10.6,461,0.2,4.0,1,7.99,2023-05-20,"(20, 30]",0.3,low_risk,18.7,Loyal,0.1740816593315613,Medium_Value
+U1576,Ghana,47,female,free,23.4,545,0.2,5.0,1,0.0,2023-03-14,"(40, 50]",0.735,high_risk,20.9,Loyal,0.0,High_Value_Low_Fee
+U1479,United Kingdom,34,other,student,14.5,508,0.2,4.0,0,7.99,2022-11-08,"(30, 40]",0.125,low_risk,25.0,Loyal,0.12725969578721033,High_Value_Low_Fee
+U1001,India,56,unknown,premium,11.1,556,0.2,5.0,0,7.99,2022-11-04,"(50, 60]",0.115,low_risk,25.1,Loyal,0.16624014314545493,Medium_Value
+U1608,United States,19,male,student,9.2,510,0.2,4.0,0,5.0,2022-11-07,"(10, 20]",0.065,low_risk,25.0,Loyal,0.12551460990059243,High_Value_Low_Fee
+U1295,Brazil,59,male,family,9.9,511,0.2,5.0,0,7.99,2023-02-22,"(50, 60]",0.315,low_risk,21.5,Loyal,0.18639046352672217,Medium_Value
+U1601,India,55,female,student,3.9,499,0.2,4.0,0,7.99,2022-11-07,"(50, 60]",0.11,low_risk,25.0,Loyal,0.4731450227986025,Low_Value_High_Fee
+U1314,South Africa,18,female,family,6.0,473,0.2,3.0,1,0.0,2023-08-12,"(10, 20]",0.16,low_risk,15.9,Mid_Term,0.0,High_Value_Low_Fee
+U1532,India,59,male,student,11.9,513,0.2,4.0,0,7.99,2022-11-07,"(50, 60]",0.115,low_risk,25.0,Loyal,0.15506433520290333,Medium_Value
+U1059,United kingdom,18,female,free,7.9,526,0.2,3.0,0,0.0,2024-04-23,"(10, 20]",0.23,low_risk,7.5,Mid_Term,0.0,High_Value_Low_Fee
+U1443,United Kingdom,45,male,student,13.3,472,0.2,5.0,1,7.99,2024-06-14,"(40, 50]",0.73,high_risk,5.8,New_User,0.1387417736025977,Medium_Value
+U1359,India,32,female,premium,12.5,492,0.2,5.0,1,0.0,2023-04-11,"(30, 40]",0.775,high_risk,19.9,Loyal,0.0,High_Value_Low_Fee
+U1366,Nepal,50,female,premium,15.9,506,0.1,3.0,0,7.99,2022-11-07,"(40, 50]",0.095,low_risk,25.0,Loyal,0.11605443955437418,High_Value_Low_Fee
+U1207,United Kingdom,17,other,premium,17.3,489,0.2,3.0,0,7.99,2022-11-07,"(10, 20]",0.11,low_risk,25.0,Loyal,0.10666275080430922,High_Value_Low_Fee
+U1251,United Kingdom,14,unknown,premium,4.6,480,0.1,1.0,1,7.99,2022-11-07,"(10, 20]",0.775,high_risk,25.0,Loyal,0.4011446932422934,Low_Value_High_Fee
+U1467,Kenya,64,male,premium,8.1,485,0.1,4.0,1,9.99,2023-09-06,"(60, 100]",0.83,high_risk,15.1,Mid_Term,0.2848344880677444,Low_Value_High_Fee
+U1349,Brazil,63,male,student,12.6,518,0.2,3.0,1,9.99,2022-11-07,"(60, 100]",0.76,high_risk,25.0,Loyal,0.18310788518640714,Medium_Value
+U1599,United Kingdom,61,female,premium,17.4,492,0.2,3.0,1,9.99,2022-12-10,"(60, 100]",0.755,high_risk,23.9,Loyal,0.1325953651349845,Medium_Value
+U1017,Nepal,53,female,family,10.2,459,0.2,4.0,0,0.0,2022-11-07,"(50, 60]",0.425,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1045,United Kingdom,53,other,free,10.3,536,0.2,2.0,1,7.99,2023-08-02,"(50, 60]",0.72,high_risk,16.2,Mid_Term,0.17915199892374267,Medium_Value
+U1112,United Kingdom,63,female,student,6.8,479,0.2,4.0,0,7.99,2022-11-07,"(60, 100]",0.135,low_risk,25.0,Loyal,0.27136258660508084,Low_Value_High_Fee
+U1639,Brazil,63,male,family,16.1,522,0.2,3.0,1,7.99,2022-11-09,"(60, 100]",0.785,high_risk,25.0,Loyal,0.11461276949779811,High_Value_Low_Fee
+U1301,United Kingdom,54,male,premium,10.4,490,0.2,3.0,0,9.99,2023-03-26,"(50, 60]",0.105,low_risk,20.5,Loyal,0.22184224551430093,Medium_Value
+U1023,United kingdom,15,unknown,premium,15.8,507,0.2,3.0,0,0.0,2022-10-12,"(10, 20]",0.3,low_risk,25.9,Loyal,0.0,High_Value_Low_Fee
+U1303,South Africa,49,unknown,family,10.5,507,0.2,5.0,0,7.99,2024-07-24,"(40, 50]",0.375,low_risk,4.5,New_User,0.17573957989662375,Medium_Value
+U1571,Brazil,21,female,free,13.2,512,0.2,3.0,0,7.99,2022-01-22,"(20, 30]",0.135,low_risk,34.5,Loyal,0.13979284764504166,Medium_Value
+U1231,United kingdom,42,male,premium,14.8,563,0.2,2.0,0,7.99,2022-11-07,"(40, 50]",0.105,low_risk,25.0,Loyal,0.12468010735909119,High_Value_Low_Fee
+U1123,Ghana,20,female,student,16.5,491,0.2,1.0,0,7.99,2023-04-19,"(10, 20]",0.12,low_risk,19.7,Loyal,0.1118342781160333,High_Value_Low_Fee
+U1644,Nigeria,61,male,student,10.3,493,0.2,3.0,0,7.99,2022-11-07,"(60, 100]",0.14,low_risk,25.0,Loyal,0.17915199892374267,Medium_Value
+U1640,Brazil,59,female,family,4.7,474,0.2,5.0,1,9.99,2022-08-07,"(50, 60]",0.73,high_risk,28.1,Loyal,0.490884968797602,Low_Value_High_Fee
+U1638,Kenya,26,female,premium,8.9,475,0.2,2.0,0,7.99,2022-08-19,"(20, 30]",0.25,low_risk,27.7,Loyal,0.20733321223758985,Medium_Value
+U1465,United States,41,male,student,7.4,511,0.1,4.0,1,7.99,2022-01-03,"(40, 50]",0.735,high_risk,35.2,Loyal,0.24936021471818237,Low_Value_High_Fee
+U1346,United Kingdom,23,female,student,2.8,516,0.1,5.0,0,9.99,2022-03-05,"(20, 30]",0.13,low_risk,33.1,Loyal,0.8239854833388321,Low_Value_High_Fee
+U1068,India,62,male,family,12.5,486,0.2,2.0,0,5.0,2023-11-19,"(60, 100]",0.095,low_risk,12.6,Mid_Term,0.09237875288683603,High_Value_Low_Fee
+U1202,Brazil,44,male,premium,13.6,521,0.2,4.0,0,5.0,2023-05-12,"(40, 50]",0.08,low_risk,18.9,Loyal,0.08490694199157724,High_Value_Low_Fee
+U1500,India,24,female,family,20.5,492,0.2,3.0,1,9.99,2022-11-07,"(20, 30]",0.755,high_risk,25.0,Loyal,0.11254435869993804,High_Value_Low_Fee
+U1246,India,38,female,family,12.4,496,0.2,4.0,0,7.99,2023-02-08,"(30, 40]",0.16,low_risk,22.0,Loyal,0.14881174104149594,Medium_Value
+U1005,Kenya,59,female,free,12.9,519,0.2,1.0,0,0.0,2022-11-07,"(50, 60]",0.305,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1039,United States,38,male,family,12.6,456,0.2,5.0,0,0.0,2022-11-07,"(30, 40]",0.485,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1512,Nigeria,17,female,student,17.4,485,0.2,3.0,1,7.99,2022-10-10,"(10, 20]",0.7,high_risk,26.0,Loyal,0.10604974648934194,High_Value_Low_Fee
+U1047,India,39,male,family,6.8,512,0.2,1.0,1,7.99,2024-02-01,"(30, 40]",0.75,high_risk,10.2,Mid_Term,0.27136258660508084,Low_Value_High_Fee
+U1696,Ghana,43,female,free,8.0,471,0.2,2.0,0,7.99,2023-09-09,"(40, 50]",0.08,low_risk,15.0,Mid_Term,0.23065819861431872,Low_Value_High_Fee
+U1358,United Kingdom,45,female,student,15.2,461,0.2,3.0,0,5.0,2022-09-30,"(40, 50]",0.1,low_risk,26.3,Loyal,0.07596936915035857,High_Value_Low_Fee
+U1631,India,41,female,student,2.6,542,0.2,1.0,1,7.99,2022-05-05,"(40, 50]",0.755,high_risk,31.1,Loyal,0.7097175341979036,Low_Value_High_Fee
+U1332,South Africa,18,female,family,18.8,460,0.2,3.0,0,0.0,2023-03-18,"(10, 20]",0.13,low_risk,20.7,Loyal,0.0,High_Value_Low_Fee
+U1315,India,18,male,premium,8.4,479,0.1,1.0,0,9.99,2022-11-07,"(10, 20]",0.18,low_risk,25.0,Loyal,0.2746618277796107,Low_Value_High_Fee
+U1004,India,57,female,student,12.5,473,0.2,3.0,0,0.0,2023-02-16,"(50, 60]",0.46,low_risk,21.7,Loyal,0.0,High_Value_Low_Fee
+U1497,United States,41,other,premium,8.2,497,0.2,4.0,0,7.99,2023-05-06,"(40, 50]",0.095,low_risk,19.1,Loyal,0.22503238889201826,Low_Value_High_Fee
+U1255,Nepal,63,male,student,8.5,462,0.2,4.0,1,7.99,2022-11-07,"(60, 100]",0.7,high_risk,25.0,Loyal,0.21709006928406469,Medium_Value
+U1168,Nigeria,41,male,premium,16.1,477,0.2,3.0,1,9.99,2023-11-27,"(40, 50]",0.745,high_risk,12.4,Mid_Term,0.14330182318936208,Medium_Value
+U1537,United States,48,female,student,11.3,486,0.1,4.0,1,7.99,2022-09-10,"(40, 50]",0.82,high_risk,26.9,Loyal,0.1632978397269513,Medium_Value
+U1405,Nigeria,46,unknown,premium,11.8,506,0.1,3.0,1,9.99,2023-06-04,"(40, 50]",0.315,low_risk,18.2,Loyal,0.19552197909734997,Medium_Value
+U1553,United Kingdom,34,other,family,6.9,467,0.2,2.0,0,5.0,2022-06-28,"(30, 40]",0.08,low_risk,29.4,Loyal,0.1673528132007899,Medium_Value
+U1423,United States,31,other,student,16.2,508,0.2,5.0,0,5.0,2022-09-23,"(30, 40]",0.11,low_risk,26.5,Loyal,0.07127990191885496,High_Value_Low_Fee
+U1483,South Africa,22,male,premium,6.8,442,0.2,3.0,0,9.99,2022-11-07,"(20, 30]",0.1,low_risk,25.0,Loyal,0.33928814019834264,Low_Value_High_Fee
+U1174,United States,32,female,family,11.6,505,0.2,5.0,1,7.99,2022-08-03,"(30, 40]",0.76,high_risk,28.2,Loyal,0.1590746197340129,Medium_Value
+U1317,Ghana,16,female,premium,7.3,500,0.2,5.0,0,9.99,2022-10-08,"(10, 20]",0.14,low_risk,26.0,Loyal,0.3160492264861274,Low_Value_High_Fee
+U1007,United Kingdom,28,female,student,5.6,507,0.1,2.0,1,0.0,2022-11-07,"(20, 30]",0.82,high_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1164,United Kingdom,54,male,free,11.5,511,0.2,5.0,1,0.0,2023-05-02,"(50, 60]",0.775,high_risk,19.3,Loyal,0.0,High_Value_Low_Fee
+U1188,India,28,male,student,19.1,504,0.2,4.0,0,9.99,2024-07-13,"(20, 30]",0.09,low_risk,4.9,New_User,0.12079368342139947,High_Value_Low_Fee
+U1580,Ghana,23,other,free,14.3,507,0.2,3.0,0,7.99,2023-10-11,"(20, 30]",0.325,low_risk,13.9,Mid_Term,0.12903955167234613,Medium_Value
+U1181,Ghana,55,female,free,2.5,513,0.1,4.0,1,7.99,2022-07-17,"(50, 60]",0.745,high_risk,28.7,Loyal,0.7381062355658199,Low_Value_High_Fee
+U1145,Kenya,63,male,premium,19.0,495,0.2,5.0,1,7.99,2023-07-15,"(60, 100]",0.38,low_risk,16.8,Mid_Term,0.09711924152181842,High_Value_Low_Fee
+U1098,Ghana,50,unknown,premium,5.6,509,0.2,3.0,0,7.99,2023-12-26,"(40, 50]",0.14,low_risk,11.4,Mid_Term,0.3295117123061696,Low_Value_High_Fee
+U1199,Nigeria,15,male,family,7.9,528,0.2,3.0,0,7.99,2022-11-07,"(10, 20]",0.13,low_risk,25.0,Loyal,0.23357792264741134,Low_Value_High_Fee
+U1297,Ghana,52,unknown,premium,4.3,469,0.2,3.0,0,7.99,2024-03-13,"(50, 60]",0.055,low_risk,8.9,Mid_Term,0.4291315323057092,Low_Value_High_Fee
+U1545,United Kingdom,40,male,family,0.7,534,0.1,3.0,0,0.0,2022-04-14,"(30, 40]",0.2,low_risk,31.8,Loyal,0.0,High_Value_Low_Fee
+U1450,Kenya,52,unknown,family,1.5,515,0.2,4.0,1,9.99,2022-11-07,"(50, 60]",0.835,high_risk,25.0,Loyal,1.53810623556582,Low_Value_High_Fee
+U1629,Ghana,61,unknown,free,14.5,522,0.2,4.0,1,7.99,2022-01-10,"(60, 100]",0.735,high_risk,34.9,Loyal,0.12725969578721033,High_Value_Low_Fee
+U1300,United Kingdom,31,male,student,11.2,532,0.2,1.0,0,0.0,2023-11-29,"(30, 40]",0.195,low_risk,12.3,Mid_Term,0.0,High_Value_Low_Fee
+U1698,United Kingdom,30,other,family,15.7,494,0.2,3.0,0,0.0,2022-05-12,"(20, 30]",0.1,low_risk,30.9,Loyal,0.0,High_Value_Low_Fee
+U1437,Nigeria,44,male,premium,15.1,456,0.2,4.0,1,7.99,2022-11-07,"(40, 50]",0.735,high_risk,25.0,Loyal,0.1222030191334139,High_Value_Low_Fee
+U1081,United kingdom,34,female,premium,9.1,484,0.2,5.0,1,5.0,2022-11-07,"(30, 40]",0.795,high_risk,25.0,Loyal,0.12689389132807147,High_Value_Low_Fee
+U1237,India,13,female,free,6.8,531,0.2,5.0,0,5.0,2022-11-07,"(10, 20]",0.105,low_risk,25.0,Loyal,0.16981388398315447,Medium_Value
+U1634,Kenya,52,other,family,10.9,480,0.2,5.0,1,9.99,2023-01-06,"(50, 60]",0.655,high_risk,23.1,Loyal,0.21166599572006695,Medium_Value
+U1172,United States,22,male,family,4.8,503,0.2,4.0,0,5.0,2022-07-15,"(20, 30]",0.1,low_risk,28.8,Loyal,0.2405696689761355,Low_Value_High_Fee
+U1279,United kingdom,37,female,free,13.9,512,0.2,4.0,1,9.99,2024-02-07,"(30, 40]",0.685,high_risk,10.0,Mid_Term,0.16598268729127552,Medium_Value
+U1210,India,54,unknown,student,7.7,496,0.2,3.0,1,0.0,2022-08-09,"(50, 60]",0.34,low_risk,28.0,Loyal,0.0,High_Value_Low_Fee
+U1218,South Africa,38,other,family,18.4,501,0.2,5.0,1,5.0,2023-10-28,"(30, 40]",0.7,high_risk,13.4,Mid_Term,0.06275730495029622,High_Value_Low_Fee
+U1148,Ghana,46,other,family,5.7,477,0.2,2.0,1,7.99,2022-11-07,"(40, 50]",0.72,high_risk,25.0,Loyal,0.323730805072728,Low_Value_High_Fee
+U1621,United States,25,female,family,12.0,505,0.2,3.0,0,7.99,2022-11-07,"(20, 30]",0.165,low_risk,25.0,Loyal,0.15377213240954582,Medium_Value
+U1518,Nigeria,18,female,student,7.8,477,0.1,5.0,1,7.99,2023-01-03,"(10, 20]",0.73,high_risk,23.2,Loyal,0.23657251139930124,Low_Value_High_Fee
+U1535,United kingdom,24,male,family,9.0,524,0.2,4.0,0,9.99,2022-11-07,"(20, 30]",0.15,low_risk,25.0,Loyal,0.25635103926096997,Low_Value_High_Fee
+U1523,South Africa,58,unknown,free,3.8,498,0.2,1.0,0,9.99,2022-11-07,"(50, 60]",0.19,low_risk,25.0,Loyal,0.6071471982496657,Low_Value_High_Fee
+U1444,South Africa,37,female,free,3.9,500,0.2,2.0,1,7.99,2022-11-07,"(30, 40]",0.745,high_risk,25.0,Loyal,0.4731450227986025,Low_Value_High_Fee
+U1384,Nigeria,14,female,student,6.3,491,0.2,2.0,0,7.99,2022-11-07,"(10, 20]",0.17,low_risk,25.0,Loyal,0.2928992998277063,Low_Value_High_Fee
+U1311,South Africa,45,unknown,family,22.1,508,0.2,4.0,0,9.99,2022-11-07,"(40, 50]",0.365,low_risk,25.0,Loyal,0.10439635083025925,High_Value_Low_Fee
+U1197,United Kingdom,15,female,student,5.4,521,0.2,3.0,0,5.0,2024-04-02,"(10, 20]",0.275,low_risk,8.2,Mid_Term,0.21383970575656486,Medium_Value
+U1626,India,44,male,family,9.5,535,0.2,4.0,0,7.99,2023-03-10,"(40, 50]",0.1,low_risk,21.0,Loyal,0.19423848304363683,Medium_Value
+U1183,United Kingdom,60,female,premium,13.6,513,0.2,5.0,0,9.99,2023-06-21,"(50, 60]",0.125,low_risk,17.6,Mid_Term,0.16964407009917132,Medium_Value
+U1122,Kenya,43,male,premium,6.0,519,0.2,4.0,0,7.99,2023-06-11,"(40, 50]",0.405,low_risk,17.9,Mid_Term,0.30754426481909164,Low_Value_High_Fee
+U1587,United Kingdom,39,male,premium,4.5,495,0.2,3.0,0,7.99,2022-11-07,"(30, 40]",0.26,low_risk,25.0,Loyal,0.41005901975878883,Low_Value_High_Fee
+U1124,South Africa,51,female,family,5.1,481,0.2,4.0,0,7.99,2024-02-29,"(50, 60]",0.305,low_risk,9.3,Mid_Term,0.3618167821401078,Low_Value_High_Fee
+U1357,United States,32,other,premium,10.0,500,0.2,1.0,0,9.99,2022-11-07,"(30, 40]",0.075,low_risk,25.0,Loyal,0.230715935334873,Low_Value_High_Fee
+U1393,United kingdom,36,male,student,17.2,506,0.2,3.0,1,9.99,2023-08-21,"(30, 40]",0.76,high_risk,15.6,Mid_Term,0.1341371717063215,Medium_Value
+U1025,India,35,female,family,13.0,532,0.1,2.0,1,9.99,2022-11-07,"(30, 40]",0.71,high_risk,25.0,Loyal,0.17747379641144076,Medium_Value
+U1243,Nepal,59,female,student,5.6,466,0.1,2.0,0,9.99,2023-09-23,"(50, 60]",0.13,low_risk,14.5,Mid_Term,0.4119927416694161,Low_Value_High_Fee
+U1321,United kingdom,43,male,premium,23.3,502,0.2,4.0,0,7.99,2022-03-03,"(40, 50]",0.195,low_risk,33.2,Loyal,0.07919594802208367,High_Value_Low_Fee
+U1106,South Africa,29,female,student,9.6,482,0.2,2.0,1,7.99,2022-11-07,"(20, 30]",0.705,high_risk,25.0,Loyal,0.19221516551193227,Medium_Value
+U1472,Kenya,41,female,family,0.6,463,0.2,4.0,1,9.99,2022-11-07,"(40, 50]",0.385,low_risk,25.0,Loyal,3.84526558891455,Low_Value_High_Fee
+U1077,Nepal,23,male,premium,8.4,501,0.2,3.0,1,9.99,2022-11-07,"(20, 30]",0.79,high_risk,25.0,Loyal,0.2746618277796107,Low_Value_High_Fee
+U1078,United kingdom,33,other,premium,14.4,487,0.2,1.0,0,9.99,2022-11-07,"(30, 40]",0.225,low_risk,25.0,Loyal,0.16021939953810624,Medium_Value
+U1421,United Kingdom,49,other,family,16.3,531,0.2,4.0,0,7.99,2024-08-20,"(40, 50]",0.105,low_risk,3.6,New_User,0.11320647784751837,High_Value_Low_Fee
+U1469,India,51,female,premium,6.8,486,0.2,3.0,0,9.99,2022-11-07,"(50, 60]",0.055,low_risk,25.0,Loyal,0.33928814019834264,Low_Value_High_Fee
+U1651,Nigeria,20,other,premium,21.7,524,0.2,3.0,0,5.0,2022-01-09,"(10, 20]",0.1,low_risk,35.0,Loyal,0.05321356733112675,High_Value_Low_Fee
+U1427,Nepal,37,other,family,10.7,544,0.2,4.0,0,7.99,2023-03-23,"(30, 40]",0.085,low_risk,20.6,Loyal,0.17245472793593924,Medium_Value
+U1542,India,20,female,student,8.0,516,0.2,3.0,1,9.99,2022-01-26,"(10, 20]",0.4,low_risk,34.4,Loyal,0.2883949191685912,Low_Value_High_Fee
+U1447,United States,59,female,premium,13.3,497,0.2,3.0,0,5.0,2022-10-13,"(50, 60]",0.185,low_risk,25.9,Loyal,0.08682213617183836,High_Value_Low_Fee
+U1261,United Kingdom,55,male,free,4.1,539,0.2,3.0,1,7.99,2022-11-07,"(50, 60]",0.74,high_risk,25.0,Loyal,0.45006477778403653,Low_Value_High_Fee
+U1687,South Africa,44,unknown,family,9.0,514,0.2,2.0,1,7.99,2023-10-11,"(40, 50]",0.755,high_risk,13.9,Mid_Term,0.20502950987939442,Medium_Value
+U1538,United Kingdom,60,female,premium,10.5,487,0.2,5.0,0,7.99,2022-03-22,"(50, 60]",0.29,low_risk,32.6,Loyal,0.17573957989662375,Medium_Value
+U1162,Kenya,27,female,student,3.3,487,0.2,2.0,0,7.99,2023-11-05,"(20, 30]",0.195,low_risk,13.1,Mid_Term,0.5591713905801666,Low_Value_High_Fee
+U1289,United Kingdom,30,male,family,8.9,493,0.2,3.0,0,7.99,2022-11-07,"(20, 30]",0.145,low_risk,25.0,Loyal,0.20733321223758985,Medium_Value
+U1179,Kenya,14,unknown,free,12.9,500,0.2,4.0,0,7.99,2023-11-06,"(10, 20]",0.105,low_risk,13.1,Mid_Term,0.14304384410190307,Medium_Value
+U1501,India,57,female,premium,4.4,493,0.2,3.0,0,7.99,2023-02-01,"(50, 60]",0.165,low_risk,22.2,Loyal,0.4193785429351249,Low_Value_High_Fee
+U1276,United States,34,male,family,4.4,475,0.2,4.0,0,0.0,2023-08-02,"(30, 40]",0.07,low_risk,16.2,Mid_Term,0.0,High_Value_Low_Fee
+U1642,United States,14,female,premium,3.7,494,0.2,3.0,1,7.99,2022-09-10,"(10, 20]",0.425,low_risk,26.9,Loyal,0.49872042943636474,Low_Value_High_Fee
+U1554,United kingdom,23,female,premium,6.5,504,0.1,4.0,1,7.99,2023-05-10,"(20, 30]",0.85,high_risk,19.0,Loyal,0.28388701367916147,Low_Value_High_Fee
+U1460,Nigeria,20,male,family,7.8,518,0.2,1.0,0,5.0,2023-08-16,"(10, 20]",0.135,low_risk,15.8,Mid_Term,0.14804287321608336,Medium_Value
+U1286,Ghana,15,male,family,5.1,489,0.2,5.0,0,7.99,2022-01-01,"(10, 20]",0.115,low_risk,35.2,Loyal,0.3618167821401078,Low_Value_High_Fee
+U1264,United Kingdom,30,male,family,0.5,511,0.2,2.0,0,9.99,2022-05-10,"(20, 30]",0.525,low_risk,31.0,Loyal,4.61431870669746,Low_Value_High_Fee
+U1612,Ghana,61,other,student,1.9,475,0.2,3.0,0,7.99,2024-03-06,"(60, 100]",0.19,low_risk,9.1,Mid_Term,0.971192415218184,Low_Value_High_Fee
+U1233,United States,60,unknown,student,14.1,507,0.2,5.0,0,7.99,2024-07-16,"(50, 60]",0.145,low_risk,4.8,New_User,0.1308698999230177,Medium_Value
+U1287,India,53,male,premium,5.5,500,0.1,2.0,1,7.99,2022-11-07,"(50, 60]",0.76,high_risk,25.0,Loyal,0.3355028343480999,Low_Value_High_Fee
+U1029,Nepal,44,male,student,8.2,514,0.2,3.0,0,9.99,2022-01-27,"(40, 50]",0.195,low_risk,34.4,Loyal,0.2813608967498451,Low_Value_High_Fee
+U1325,Ghana,63,unknown,student,19.1,477,0.2,1.0,0,9.99,2023-07-29,"(60, 100]",0.09,low_risk,16.4,Mid_Term,0.12079368342139947,High_Value_Low_Fee
+U1446,United States,45,male,family,11.4,499,0.2,2.0,0,9.99,2023-05-11,"(40, 50]",0.09,low_risk,19.0,Loyal,0.20238239941655525,Medium_Value
+U1089,India,13,male,student,9.8,481,0.2,4.0,0,7.99,2022-11-07,"(10, 20]",0.12,low_risk,25.0,Loyal,0.18829240703209688,Medium_Value
+U1610,United Kingdom,32,unknown,free,15.6,481,0.2,4.0,1,7.99,2022-11-07,"(30, 40]",0.76,high_risk,25.0,Loyal,0.11828625569965062,High_Value_Low_Fee
+U1326,India,43,male,student,9.6,531,0.2,1.0,0,7.99,2023-06-04,"(40, 50]",0.15,low_risk,18.2,Loyal,0.19221516551193227,Medium_Value
+U1061,United States,63,unknown,free,6.5,530,0.2,4.0,0,0.0,2022-08-11,"(60, 100]",0.135,low_risk,27.9,Loyal,0.0,High_Value_Low_Fee
+U1541,Brazil,49,other,student,15.4,534,0.2,3.0,0,7.99,2022-11-07,"(40, 50]",0.24,low_risk,25.0,Loyal,0.11982244083860712,High_Value_Low_Fee
+U1277,Ghana,38,unknown,family,9.2,477,0.2,2.0,0,9.99,2023-07-09,"(30, 40]",0.145,low_risk,17.0,Mid_Term,0.2507781905813837,Low_Value_High_Fee
+U1594,Kenya,19,male,family,0.8,502,0.2,3.0,0,7.99,2022-10-27,"(10, 20]",0.505,low_risk,25.4,Loyal,2.3065819861431867,Low_Value_High_Fee
+U1160,Brazil,45,female,student,11.1,495,0.2,3.0,0,5.0,2022-03-01,"(40, 50]",0.085,low_risk,33.3,Loyal,0.10403012712481534,High_Value_Low_Fee
+U1221,United Kingdom,61,male,free,7.1,514,0.2,4.0,0,9.99,2023-06-02,"(60, 100]",0.17,low_risk,18.2,Loyal,0.3249520215984127,Low_Value_High_Fee
+U1217,United Kingdom,24,male,family,17.3,485,0.2,4.0,0,0.0,2023-01-05,"(20, 30]",0.205,low_risk,23.1,Loyal,0.0,High_Value_Low_Fee
+U1516,United kingdom,52,female,family,9.5,461,0.2,3.0,1,5.0,2022-09-27,"(50, 60]",0.65,high_risk,26.4,Loyal,0.12155099064057373,High_Value_Low_Fee
+U1555,United Kingdom,35,female,free,11.7,545,0.1,3.0,0,9.99,2024-03-05,"(30, 40]",0.165,low_risk,9.1,Mid_Term,0.1971931071238231,Medium_Value
+U1108,Brazil,26,male,family,17.1,485,0.2,2.0,0,9.99,2022-11-07,"(20, 30]",0.115,low_risk,25.0,Loyal,0.1349215996110368,Medium_Value
+U1471,India,48,female,family,10.5,521,0.2,4.0,0,7.99,2023-01-08,"(40, 50]",0.175,low_risk,23.0,Loyal,0.17573957989662375,Medium_Value
+U1091,India,60,unknown,student,20.3,498,0.2,2.0,1,9.99,2022-03-01,"(50, 60]",0.33,low_risk,33.3,Loyal,0.11365317011570097,High_Value_Low_Fee
+U1391,Nepal,23,male,family,9.8,496,0.2,2.0,1,7.99,2022-07-04,"(20, 30]",0.695,high_risk,29.2,Loyal,0.18829240703209688,Medium_Value
+U1665,United Kingdom,62,unknown,student,11.4,467,0.2,4.0,0,7.99,2023-06-22,"(60, 100]",0.375,low_risk,17.6,Mid_Term,0.161865402536364,Medium_Value
+U1431,Nepal,30,male,free,4.4,466,0.2,4.0,0,0.0,2022-11-07,"(20, 30]",0.18,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1055,Nigeria,41,male,free,12.1,500,0.2,3.0,0,9.99,2022-12-02,"(40, 50]",0.165,low_risk,24.2,Loyal,0.19067432672303553,Medium_Value
+U1100,Ghana,35,female,student,11.4,490,0.2,4.0,1,9.99,2024-06-11,"(30, 40]",0.685,high_risk,5.9,New_User,0.20238239941655525,Medium_Value
+U1307,South Africa,46,other,free,5.4,495,0.2,3.0,0,9.99,2022-11-07,"(40, 50]",0.135,low_risk,25.0,Loyal,0.4272517321016166,Low_Value_High_Fee
+U1635,Nigeria,31,male,family,4.1,450,0.2,2.0,0,0.0,2023-08-16,"(30, 40]",0.13,low_risk,15.8,Mid_Term,0.0,High_Value_Low_Fee
+U1298,Ghana,61,female,family,1.2,516,0.2,3.0,1,7.99,2022-11-07,"(60, 100]",0.885,high_risk,25.0,Loyal,1.5377213240954581,Low_Value_High_Fee
+U1241,Brazil,64,male,family,14.0,556,0.2,4.0,1,7.99,2022-11-07,"(60, 100]",0.73,high_risk,25.0,Loyal,0.13180468492246783,Medium_Value
+U1066,United Kingdom,22,male,free,2.3,493,0.2,4.0,1,7.99,2022-11-07,"(20, 30]",0.72,high_risk,25.0,Loyal,0.8022893864845868,Low_Value_High_Fee
+U1118,Kenya,52,male,family,8.9,475,0.2,2.0,0,9.99,2022-04-02,"(50, 60]",0.065,low_risk,32.2,Loyal,0.25923138801671125,Low_Value_High_Fee
+U1036,United States,20,female,family,22.3,488,0.2,1.0,1,7.99,2022-11-07,"(10, 20]",0.755,high_risk,25.0,Loyal,0.08274733582576455,High_Value_Low_Fee
+U1534,United States,55,male,family,6.1,490,0.2,1.0,1,7.99,2022-11-07,"(50, 60]",0.68,high_risk,25.0,Loyal,0.30250255555976224,Low_Value_High_Fee
+U1684,Nigeria,44,female,family,12.1,464,0.2,2.0,0,0.0,2022-10-03,"(40, 50]",0.115,low_risk,26.2,Loyal,0.0,High_Value_Low_Fee
+U1294,India,46,female,student,7.4,507,0.1,3.0,0,7.99,2022-11-07,"(40, 50]",0.15,low_risk,25.0,Loyal,0.24936021471818237,Low_Value_High_Fee
+U1654,Brazil,15,female,premium,19.8,484,0.2,3.0,0,9.99,2022-11-07,"(10, 20]",0.195,low_risk,25.0,Loyal,0.11652319966407726,High_Value_Low_Fee
+U1547,South Africa,21,male,premium,9.1,524,0.1,5.0,0,9.99,2022-03-07,"(20, 30]",0.1,low_risk,33.1,Loyal,0.2535339948734868,Low_Value_High_Fee
+U1406,Kenya,24,unknown,premium,8.5,514,0.2,4.0,1,0.0,2023-07-15,"(20, 30]",0.78,high_risk,16.8,Mid_Term,0.0,High_Value_Low_Fee
+U1473,Ghana,50,female,student,8.5,526,0.1,1.0,1,0.0,2022-11-07,"(40, 50]",0.765,high_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1057,Nigeria,58,other,premium,9.7,491,0.2,3.0,0,5.0,2024-06-06,"(50, 60]",0.135,low_risk,6.1,Mid_Term,0.11904478464798458,High_Value_Low_Fee
+U1134,South Africa,42,female,student,13.0,483,0.2,5.0,0,7.99,2022-09-14,"(40, 50]",0.505,low_risk,26.8,Loyal,0.14194350683958074,Medium_Value
+U1334,Kenya,32,male,student,6.4,488,0.2,1.0,1,9.99,2022-11-07,"(30, 40]",0.775,high_risk,25.0,Loyal,0.360493648960739,Low_Value_High_Fee
+U1643,Ghana,40,male,family,5.7,453,0.1,3.0,1,7.99,2024-07-21,"(30, 40]",0.67,high_risk,4.6,New_User,0.323730805072728,Low_Value_High_Fee
+U1053,United States,40,female,family,3.6,509,0.2,5.0,1,7.99,2022-11-07,"(30, 40]",0.835,high_risk,25.0,Loyal,0.512573774698486,Low_Value_High_Fee
+U1681,United Kingdom,20,male,family,8.7,476,0.2,3.0,0,7.99,2022-11-07,"(10, 20]",0.09,low_risk,25.0,Loyal,0.21209949297868388,Medium_Value
+U1374,United Kingdom,18,male,student,14.2,504,0.2,5.0,0,9.99,2022-04-11,"(10, 20]",0.105,low_risk,31.9,Loyal,0.16247601079920634,Medium_Value
+U1069,United kingdom,57,male,premium,21.4,454,0.2,3.0,1,7.99,2022-11-05,"(50, 60]",0.8,high_risk,25.1,Loyal,0.08622736396796962,High_Value_Low_Fee
+U1230,United Kingdom,59,other,family,18.2,484,0.2,5.0,0,7.99,2022-11-07,"(50, 60]",0.18,low_risk,25.0,Loyal,0.10138821917112911,High_Value_Low_Fee
+U1293,India,34,male,free,17.8,517,0.2,4.0,0,0.0,2023-08-29,"(30, 40]",0.19,low_risk,15.3,Mid_Term,0.0,High_Value_Low_Fee
+U1253,United States,38,male,premium,11.3,497,0.2,4.0,1,9.99,2022-11-07,"(30, 40]",0.71,high_risk,25.0,Loyal,0.2041733941016575,Medium_Value
+U1318,United Kingdom,42,male,student,13.2,458,0.2,2.0,1,0.0,2023-07-15,"(40, 50]",0.795,high_risk,16.8,Mid_Term,0.0,High_Value_Low_Fee
+U1677,Nigeria,63,other,student,6.4,541,0.1,2.0,1,0.0,2024-05-04,"(60, 100]",0.815,high_risk,7.2,Mid_Term,0.0,High_Value_Low_Fee
+U1350,Brazil,57,female,student,11.6,510,0.2,4.0,1,5.0,2022-10-03,"(50, 60]",0.73,high_risk,26.2,Loyal,0.09954606992115951,High_Value_Low_Fee
+U1016,United Kingdom,59,female,free,14.2,514,0.2,2.0,0,5.0,2023-02-23,"(50, 60]",0.105,low_risk,21.5,Loyal,0.0813193247243275,High_Value_Low_Fee
+U1064,United States,37,male,family,10.1,510,0.2,3.0,0,7.99,2022-11-07,"(30, 40]",0.135,low_risk,25.0,Loyal,0.18269956325886633,Medium_Value
+U1027,United States,24,female,family,8.8,508,0.2,1.0,0,9.99,2023-08-30,"(20, 30]",0.415,low_risk,15.3,Mid_Term,0.2621771992441738,Low_Value_High_Fee
+U1658,India,31,female,student,9.8,508,0.2,3.0,0,7.99,2022-11-07,"(30, 40]",0.09,low_risk,25.0,Loyal,0.18829240703209688,Medium_Value
+U1522,United Kingdom,38,unknown,student,12.3,500,0.2,1.0,0,7.99,2023-11-24,"(30, 40]",0.14,low_risk,12.5,Mid_Term,0.15002159259467882,Medium_Value
+U1690,United Kingdom,28,male,premium,21.7,512,0.2,2.0,1,7.99,2022-11-07,"(20, 30]",0.735,high_risk,25.0,Loyal,0.08503528059514054,High_Value_Low_Fee
+U1265,India,50,unknown,premium,10.9,497,0.2,3.0,0,9.99,2023-11-02,"(40, 50]",0.075,low_risk,13.2,Mid_Term,0.21166599572006695,Medium_Value
+U1014,South Africa,32,male,free,20.8,487,0.2,2.0,0,7.99,2022-11-07,"(30, 40]",0.565,low_risk,25.0,Loyal,0.08871469177473795,High_Value_Low_Fee
+U1213,United kingdom,18,unknown,student,0.5,509,0.2,1.0,0,7.99,2022-11-07,"(10, 20]",0.22,low_risk,25.0,Loyal,3.6905311778290995,Low_Value_High_Fee
+U1186,Brazil,59,female,family,0.5,490,0.2,1.0,0,9.99,2022-11-07,"(50, 60]",0.21,low_risk,25.0,Loyal,4.61431870669746,Low_Value_High_Fee
+U1492,Nigeria,64,male,family,13.3,501,0.2,3.0,0,7.99,2022-11-07,"(60, 100]",0.22,low_risk,25.0,Loyal,0.1387417736025977,Medium_Value
+U1570,United kingdom,21,female,premium,11.9,487,0.2,5.0,1,9.99,2023-12-01,"(20, 30]",0.74,high_risk,12.3,Mid_Term,0.1938789372561958,Medium_Value
+U1451,India,52,other,family,1.4,511,0.2,3.0,0,5.0,2023-09-09,"(50, 60]",0.105,low_risk,15.0,Mid_Term,0.8248102936324646,Low_Value_High_Fee
+U1402,Brazil,26,female,student,11.4,513,0.2,2.0,1,9.99,2024-03-13,"(20, 30]",0.705,high_risk,8.9,Mid_Term,0.20238239941655525,Medium_Value
+U1379,Kenya,22,female,student,7.4,505,0.2,3.0,1,7.99,2023-12-22,"(20, 30]",0.8,high_risk,11.6,Mid_Term,0.24936021471818237,Low_Value_High_Fee
+U1193,South Africa,16,female,premium,12.4,523,0.2,2.0,0,7.99,2022-04-29,"(10, 20]",0.12,low_risk,31.3,Loyal,0.14881174104149594,Medium_Value
+U1268,Ghana,27,female,free,8.2,510,0.1,4.0,0,9.99,2022-04-06,"(20, 30]",0.12,low_risk,32.1,Loyal,0.2813608967498451,Low_Value_High_Fee
+U1457,India,15,other,premium,5.3,525,0.2,2.0,1,7.99,2023-07-03,"(10, 20]",0.805,high_risk,17.2,Mid_Term,0.3481633186631226,Low_Value_High_Fee
+U1371,South Africa,55,male,free,10.6,496,0.2,4.0,1,9.99,2024-05-28,"(50, 60]",0.72,high_risk,6.4,Mid_Term,0.21765654276874813,Medium_Value
+U1159,Kenya,50,male,student,8.3,518,0.2,1.0,1,0.0,2023-01-31,"(40, 50]",0.355,low_risk,22.2,Loyal,0.0,High_Value_Low_Fee
+U1191,Kenya,28,female,student,14.5,516,0.2,3.0,0,9.99,2022-11-07,"(20, 30]",0.44,low_risk,25.0,Loyal,0.15911443816198137,Medium_Value
+U1440,Brazil,45,female,student,15.1,474,0.2,3.0,0,0.0,2023-02-13,"(40, 50]",0.21,low_risk,21.8,Loyal,0.0,High_Value_Low_Fee
+U1102,Ghana,49,male,student,15.7,532,0.2,2.0,0,0.0,2023-03-29,"(40, 50]",0.13,low_risk,20.4,Loyal,0.0,High_Value_Low_Fee
+U1336,United Kingdom,23,male,family,17.0,458,0.2,4.0,1,0.0,2023-03-02,"(20, 30]",0.72,high_risk,21.3,Loyal,0.0,High_Value_Low_Fee
+U1456,South Africa,18,male,family,9.1,499,0.2,3.0,0,7.99,2024-07-14,"(10, 20]",0.135,low_risk,4.8,New_User,0.20277643834225823,Medium_Value
+U1368,United States,23,unknown,student,13.8,519,0.2,1.0,0,0.0,2023-05-06,"(20, 30]",0.085,low_risk,19.1,Loyal,0.0,High_Value_Low_Fee
+U1224,United States,57,female,family,21.1,499,0.2,4.0,0,9.99,2022-11-07,"(50, 60]",0.135,low_risk,25.0,Loyal,0.10934404518240425,High_Value_Low_Fee
+U1646,United States,42,other,premium,14.8,484,0.2,3.0,0,0.0,2022-11-07,"(40, 50]",0.09,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1383,Ghana,52,female,student,4.2,471,0.2,4.0,0,0.0,2022-11-07,"(50, 60]",0.085,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1323,Nepal,21,other,free,10.8,499,0.2,4.0,0,7.99,2022-11-07,"(20, 30]",0.125,low_risk,25.0,Loyal,0.17085792489949533,Medium_Value
+U1092,South Africa,18,female,free,4.0,503,0.2,5.0,0,9.99,2022-03-17,"(10, 20]",0.17,low_risk,32.8,Loyal,0.5767898383371824,Low_Value_High_Fee
+U1361,United Kingdom,24,male,free,7.2,485,0.2,3.0,0,0.0,2022-09-21,"(20, 30]",0.095,low_risk,26.6,Loyal,0.0,High_Value_Low_Fee
+U1397,Nigeria,43,male,premium,8.7,514,0.2,3.0,1,5.0,2023-07-03,"(40, 50]",0.765,high_risk,17.2,Mid_Term,0.1327280932282127,Medium_Value
+U1067,United Kingdom,42,female,family,14.6,479,0.2,4.0,0,9.99,2024-07-27,"(40, 50]",0.105,low_risk,4.4,New_User,0.1580246132430637,Medium_Value
+U1476,United Kingdom,39,male,student,15.3,530,0.1,3.0,1,9.99,2024-02-06,"(30, 40]",0.75,high_risk,10.1,Mid_Term,0.15079472897704113,Medium_Value
+U1485,United Kingdom,50,other,family,7.7,536,0.2,3.0,1,0.0,2022-11-09,"(40, 50]",0.705,high_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1282,United Kingdom,32,other,family,12.0,502,0.2,3.0,0,7.99,2023-07-02,"(30, 40]",0.045,low_risk,17.2,Mid_Term,0.15377213240954582,Medium_Value
+U1648,Nepal,63,female,family,9.1,481,0.2,1.0,0,9.99,2024-02-03,"(60, 100]",0.06,low_risk,10.2,Mid_Term,0.2535339948734868,Low_Value_High_Fee
+U1663,Nepal,40,female,student,18.8,480,0.2,4.0,1,9.99,2022-11-07,"(30, 40]",0.69,high_risk,25.0,Loyal,0.1227212421994005,High_Value_Low_Fee
+U1071,India,45,female,student,9.0,525,0.2,3.0,1,9.99,2023-02-25,"(40, 50]",0.725,high_risk,21.4,Loyal,0.25635103926096997,Low_Value_High_Fee
+U1338,United States,27,female,premium,6.8,510,0.2,3.0,0,0.0,2022-11-07,"(20, 30]",0.12,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1398,United Kingdom,61,male,family,19.0,451,0.2,3.0,0,9.99,2023-03-16,"(60, 100]",0.385,low_risk,20.8,Loyal,0.12142943964993315,High_Value_Low_Fee
+U1182,Kenya,55,male,family,12.5,498,0.2,4.0,0,7.99,2022-09-24,"(50, 60]",0.095,low_risk,26.5,Loyal,0.147621247113164,Medium_Value
+U1536,United Kingdom,56,female,premium,5.6,516,0.2,1.0,1,9.99,2023-06-22,"(50, 60]",0.79,high_risk,17.6,Mid_Term,0.4119927416694161,Low_Value_High_Fee
+U1605,United Kingdom,62,unknown,premium,9.2,493,0.2,3.0,0,0.0,2022-11-07,"(60, 100]",0.21,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1220,Brazil,46,male,family,15.8,494,0.2,2.0,0,9.99,2022-11-07,"(40, 50]",0.1,low_risk,25.0,Loyal,0.146022743882831,Medium_Value
+U1664,India,44,male,family,8.2,483,0.2,4.0,0,7.99,2022-11-07,"(40, 50]",0.075,low_risk,25.0,Loyal,0.22503238889201826,Low_Value_High_Fee
+U1171,Nepal,29,male,family,13.7,510,0.2,5.0,0,5.0,2022-11-07,"(20, 30]",0.155,low_risk,25.0,Loyal,0.08428718329090878,High_Value_Low_Fee
+U1430,Nigeria,37,male,free,16.0,498,0.2,4.0,1,7.99,2023-02-09,"(30, 40]",0.805,high_risk,21.9,Loyal,0.11532909930715936,High_Value_Low_Fee
+U1206,India,33,other,premium,11.4,490,0.2,5.0,0,7.99,2023-04-11,"(30, 40]",0.18,low_risk,19.9,Loyal,0.161865402536364,Medium_Value
+U1525,India,24,male,family,6.7,505,0.2,3.0,1,9.99,2022-04-10,"(20, 30]",0.84,high_risk,32.0,Loyal,0.34435214229085515,Low_Value_High_Fee
+U1659,Nepal,58,female,free,7.2,495,0.2,3.0,0,5.0,2022-11-07,"(50, 60]",0.06,low_risk,25.0,Loyal,0.16037977931742364,Medium_Value
+U1480,United kingdom,14,male,free,14.5,474,0.2,4.0,0,7.99,2022-11-07,"(10, 20]",0.13,low_risk,25.0,Loyal,0.12725969578721033,High_Value_Low_Fee
+U1692,United States,64,unknown,family,19.8,480,0.1,3.0,0,7.99,2023-11-22,"(60, 100]",0.1,low_risk,12.5,Mid_Term,0.09319523176336109,High_Value_Low_Fee
+U1385,Nepal,32,unknown,free,11.0,504,0.2,3.0,1,7.99,2022-11-02,"(30, 40]",0.74,high_risk,25.2,Loyal,0.16775141717404995,Medium_Value
+U1585,India,39,male,family,6.3,477,0.2,4.0,0,7.99,2022-11-07,"(30, 40]",0.23,low_risk,25.0,Loyal,0.2928992998277063,Low_Value_High_Fee
+U1433,Nigeria,20,male,premium,12.6,521,0.2,3.0,0,7.99,2024-07-07,"(10, 20]",0.115,low_risk,5.1,New_User,0.14644964991385315,Medium_Value
+U1502,United States,14,other,premium,16.1,470,0.1,3.0,1,9.99,2024-03-03,"(10, 20]",0.705,high_risk,9.2,Mid_Term,0.14330182318936208,Medium_Value
+U1117,Nigeria,61,other,free,18.6,558,0.2,5.0,0,9.99,2023-12-25,"(60, 100]",0.22,low_risk,11.5,Mid_Term,0.12404082544885643,High_Value_Low_Fee
+U1527,Kenya,25,female,family,10.0,452,0.2,1.0,0,9.99,2022-11-07,"(20, 30]",0.075,low_risk,25.0,Loyal,0.230715935334873,Low_Value_High_Fee
+U1146,Kenya,51,male,premium,13.7,498,0.2,4.0,0,9.99,2022-11-03,"(50, 60]",0.11,low_risk,25.2,Loyal,0.16840579221523577,Medium_Value
+U1682,United kingdom,46,male,free,16.0,505,0.2,4.0,0,7.99,2022-11-07,"(40, 50]",0.36,low_risk,25.0,Loyal,0.11532909930715936,High_Value_Low_Fee
+U1388,South Africa,21,female,free,12.6,508,0.2,4.0,1,0.0,2023-08-14,"(20, 30]",0.76,high_risk,15.8,Mid_Term,0.0,High_Value_Low_Fee
+U1324,United Kingdom,15,female,student,11.9,521,0.2,2.0,1,9.99,2023-04-24,"(10, 20]",0.725,high_risk,19.5,Loyal,0.1938789372561958,Medium_Value
+U1327,United Kingdom,52,male,premium,5.9,460,0.2,5.0,0,7.99,2024-02-04,"(50, 60]",0.17,low_risk,10.1,Mid_Term,0.31275687947704234,Low_Value_High_Fee
+U1442,India,27,female,premium,13.6,504,0.1,3.0,0,9.99,2022-11-07,"(20, 30]",0.12,low_risk,25.0,Loyal,0.16964407009917132,Medium_Value
+U1493,United Kingdom,27,male,family,23.4,536,0.2,3.0,0,0.0,2022-11-07,"(20, 30]",0.195,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1256,United Kingdom,19,female,premium,16.0,525,0.2,3.0,0,7.99,2023-06-10,"(10, 20]",0.105,low_risk,18.0,Mid_Term,0.11532909930715936,High_Value_Low_Fee
+U1013,India,31,male,family,2.0,554,0.2,2.0,0,5.0,2022-11-07,"(30, 40]",0.11,low_risk,25.0,Loyal,0.5773672055427251,Low_Value_High_Fee
+U1590,Kenya,56,other,premium,12.6,480,0.2,3.0,0,7.99,2023-12-09,"(50, 60]",0.225,low_risk,12.0,Mid_Term,0.14644964991385315,Medium_Value
+U1354,United States,38,unknown,student,10.4,479,0.2,3.0,0,5.0,2022-11-07,"(30, 40]",0.04,low_risk,25.0,Loyal,0.11103215491206253,High_Value_Low_Fee
+U1088,South Africa,47,male,premium,5.0,487,0.2,3.0,0,0.0,2023-12-18,"(40, 50]",0.09,low_risk,11.7,Mid_Term,0.0,High_Value_Low_Fee
+U1504,Nigeria,43,female,student,4.9,504,0.2,3.0,0,0.0,2023-12-07,"(40, 50]",0.085,low_risk,12.1,Mid_Term,0.0,High_Value_Low_Fee
+U1305,South Africa,64,female,premium,7.0,482,0.2,4.0,0,9.99,2022-11-07,"(60, 100]",0.115,low_risk,25.0,Loyal,0.3295941933355328,Low_Value_High_Fee
+U1125,United States,38,female,student,3.4,481,0.2,3.0,0,0.0,2022-11-07,"(30, 40]",0.035,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1200,United States,39,male,premium,11.3,487,0.2,2.0,0,9.99,2022-12-24,"(30, 40]",0.07,low_risk,23.5,Loyal,0.2041733941016575,Medium_Value
+U1319,Ghana,23,female,premium,7.8,504,0.2,2.0,1,5.0,2022-11-07,"(20, 30]",0.825,high_risk,25.0,Loyal,0.14804287321608336,Medium_Value
+U1010,Brazil,49,female,student,10.4,457,0.2,5.0,0,9.99,2022-11-04,"(40, 50]",0.125,low_risk,25.1,Loyal,0.22184224551430093,Medium_Value
+U1655,Nigeria,44,male,student,15.6,521,0.2,2.0,1,7.99,2022-11-07,"(40, 50]",0.785,high_risk,25.0,Loyal,0.11828625569965062,High_Value_Low_Fee
+U1404,Kenya,21,male,student,19.0,474,0.2,4.0,0,7.99,2022-11-07,"(20, 30]",0.145,low_risk,25.0,Loyal,0.09711924152181842,High_Value_Low_Fee
+U1596,Ghana,18,unknown,free,17.9,524,0.2,2.0,0,5.0,2022-11-07,"(10, 20]",0.15,low_risk,25.0,Loyal,0.06451030229527656,High_Value_Low_Fee
+U1024,United States,28,unknown,premium,12.8,510,0.2,3.0,0,0.0,2022-05-15,"(20, 30]",0.14,low_risk,30.8,Loyal,0.0,High_Value_Low_Fee
+U1339,Brazil,18,male,family,9.7,511,0.2,3.0,0,0.0,2022-07-30,"(10, 20]",0.115,low_risk,28.3,Loyal,0.0,High_Value_Low_Fee
+U1589,South Africa,55,male,student,17.2,481,0.2,3.0,0,0.0,2022-11-07,"(50, 60]",0.525,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1228,United Kingdom,59,male,student,19.3,464,0.2,4.0,0,9.99,2022-11-07,"(50, 60]",0.125,low_risk,25.0,Loyal,0.11954193540666994,High_Value_Low_Fee
+U1495,Nepal,20,female,family,6.6,496,0.2,2.0,0,9.99,2024-01-01,"(10, 20]",0.15,low_risk,11.2,Mid_Term,0.3495695989922318,Low_Value_High_Fee
+U1491,United States,36,female,student,13.2,479,0.2,1.0,0,7.99,2022-11-07,"(30, 40]",0.07,low_risk,25.0,Loyal,0.13979284764504166,Medium_Value
+U1645,Nigeria,62,female,premium,12.5,478,0.2,4.0,0,9.99,2024-01-27,"(60, 100]",0.29,low_risk,10.4,Mid_Term,0.18457274826789838,Medium_Value
+U1189,Ghana,43,male,premium,13.1,500,0.2,3.0,1,7.99,2022-11-07,"(40, 50]",0.77,high_risk,25.0,Loyal,0.14085996861943129,Medium_Value
+U1139,United Kingdom,27,female,family,5.4,441,0.2,5.0,1,7.99,2023-09-14,"(20, 30]",0.77,high_risk,14.8,Mid_Term,0.34171584979899067,Low_Value_High_Fee
+U1458,United kingdom,19,female,family,8.9,528,0.1,3.0,0,9.99,2022-11-07,"(10, 20]",0.17,low_risk,25.0,Loyal,0.25923138801671125,Low_Value_High_Fee
+U1363,United States,13,female,student,11.0,509,0.2,3.0,0,7.99,2022-11-07,"(10, 20]",0.08,low_risk,25.0,Loyal,0.16775141717404995,Medium_Value
+U1488,Nepal,59,other,student,11.7,495,0.2,1.0,0,5.0,2022-11-07,"(50, 60]",0.08,low_risk,25.0,Loyal,0.09869524881072227,High_Value_Low_Fee
+U1581,South Africa,50,male,student,16.4,483,0.2,1.0,1,9.99,2023-06-01,"(40, 50]",0.725,high_risk,18.3,Loyal,0.14068044837492255,Medium_Value
+U1147,Brazil,50,female,student,13.0,479,0.2,3.0,0,9.99,2022-11-07,"(40, 50]",0.075,low_risk,25.0,Loyal,0.17747379641144076,Medium_Value
+U1355,United Kingdom,16,male,premium,14.4,482,0.2,3.0,0,5.0,2022-02-04,"(10, 20]",0.1,low_risk,34.1,Loyal,0.08018988965871182,High_Value_Low_Fee
+U1419,South Africa,47,male,student,0.1,531,0.2,4.0,0,9.99,2023-09-22,"(40, 50]",0.175,low_risk,14.6,Mid_Term,23.071593533487295,Low_Value_High_Fee
+U1416,India,49,female,student,7.2,451,0.2,5.0,0,7.99,2023-04-17,"(40, 50]",0.085,low_risk,19.7,Loyal,0.256286887349243,Low_Value_High_Fee
+U1195,Ghana,16,female,premium,9.9,500,0.2,3.0,1,0.0,2022-02-09,"(10, 20]",0.785,high_risk,33.9,Loyal,0.0,High_Value_Low_Fee
+U1392,Kenya,27,female,family,15.7,493,0.2,4.0,1,0.0,2022-11-07,"(20, 30]",0.415,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1190,United Kingdom,23,female,family,11.6,475,0.2,4.0,1,7.99,2022-11-07,"(20, 30]",0.78,high_risk,25.0,Loyal,0.1590746197340129,Medium_Value
+U1401,Ghana,62,male,family,13.0,475,0.2,2.0,0,9.99,2022-11-07,"(60, 100]",0.265,low_risk,25.0,Loyal,0.17747379641144076,Medium_Value
+U1208,United Kingdom,30,female,family,2.8,494,0.2,4.0,0,7.99,2022-11-07,"(20, 30]",0.245,low_risk,25.0,Loyal,0.6590234246123392,Low_Value_High_Fee
+U1051,India,32,male,student,6.0,513,0.2,5.0,0,5.0,2022-11-07,"(30, 40]",0.09,low_risk,25.0,Loyal,0.1924557351809084,Medium_Value
+U1012,India,47,male,family,5.8,549,0.2,3.0,0,5.0,2023-05-08,"(40, 50]",0.095,low_risk,19.1,Loyal,0.19909213984231902,Medium_Value
+U1399,South Africa,17,female,student,11.1,511,0.2,2.0,0,5.0,2022-11-07,"(10, 20]",0.1,low_risk,25.0,Loyal,0.10403012712481534,High_Value_Low_Fee
+U1468,Nigeria,42,female,family,11.7,477,0.2,3.0,0,9.99,2023-12-18,"(40, 50]",0.12,low_risk,11.7,Mid_Term,0.1971931071238231,Medium_Value
+U1278,Ghana,56,unknown,family,14.5,531,0.2,4.0,0,0.0,2022-05-29,"(50, 60]",0.175,low_risk,30.4,Loyal,0.0,High_Value_Low_Fee
+U1166,United States,29,male,family,14.2,487,0.2,3.0,0,9.99,2022-11-07,"(20, 30]",0.115,low_risk,25.0,Loyal,0.16247601079920634,Medium_Value
+U1040,Kenya,20,female,student,2.6,516,0.2,3.0,1,7.99,2022-11-07,"(10, 20]",0.79,high_risk,25.0,Loyal,0.7097175341979036,Low_Value_High_Fee
+U1328,India,49,male,premium,3.7,479,0.2,2.0,0,5.0,2022-12-12,"(40, 50]",0.145,low_risk,23.9,Loyal,0.312090381374446,Low_Value_High_Fee
+U1531,Brazil,45,unknown,student,23.7,536,0.2,3.0,0,9.99,2023-07-08,"(40, 50]",0.195,low_risk,17.0,Mid_Term,0.09734849592188734,High_Value_Low_Fee
+U1604,Brazil,40,female,premium,10.2,485,0.2,2.0,1,7.99,2023-11-23,"(30, 40]",0.18,low_risk,12.5,Mid_Term,0.1809083910700539,Medium_Value
+U1628,Kenya,41,unknown,free,11.2,495,0.2,4.0,0,7.99,2022-11-07,"(40, 50]",0.145,low_risk,25.0,Loyal,0.1647558561530848,Medium_Value
+U1110,United Kingdom,58,male,student,11.4,496,0.2,4.0,1,9.99,2023-10-03,"(50, 60]",0.385,low_risk,14.2,Mid_Term,0.20238239941655525,Medium_Value
+U1348,South Africa,38,other,student,8.2,517,0.2,4.0,0,9.99,2022-02-11,"(30, 40]",0.135,low_risk,33.9,Loyal,0.2813608967498451,Low_Value_High_Fee
+U1375,United States,62,female,family,7.9,511,0.2,4.0,0,5.0,2022-02-02,"(60, 100]",0.115,low_risk,34.2,Loyal,0.14616891279562663,Medium_Value
+U1056,Ghana,25,male,premium,6.6,497,0.2,3.0,0,9.99,2023-03-26,"(20, 30]",0.47,low_risk,20.5,Loyal,0.3495695989922318,Low_Value_High_Fee
+U1082,Nigeria,39,male,student,8.0,486,0.2,2.0,1,9.99,2024-04-18,"(30, 40]",0.785,high_risk,7.7,Mid_Term,0.2883949191685912,Low_Value_High_Fee
+U1562,Nigeria,48,male,family,12.6,498,0.2,2.0,1,0.0,2022-11-07,"(40, 50]",0.665,high_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1320,United kingdom,42,female,free,15.1,512,0.2,3.0,0,7.99,2022-11-07,"(40, 50]",0.135,low_risk,25.0,Loyal,0.1222030191334139,High_Value_Low_Fee
+U1048,Ghana,29,unknown,free,4.4,493,0.2,3.0,0,7.99,2022-11-07,"(20, 30]",0.105,low_risk,25.0,Loyal,0.4193785429351249,Low_Value_High_Fee
+U1009,Brazil,23,female,free,8.8,494,0.2,3.0,1,9.99,2022-11-07,"(20, 30]",0.715,high_risk,25.0,Loyal,0.2621771992441738,Low_Value_High_Fee
+U1337,United Kingdom,16,female,premium,10.3,498,0.2,4.0,0,7.99,2022-11-07,"(10, 20]",0.07,low_risk,25.0,Loyal,0.17915199892374267,Medium_Value
+U1360,United Kingdom,61,female,premium,16.5,510,0.2,4.0,0,7.99,2023-06-27,"(60, 100]",0.095,low_risk,17.4,Mid_Term,0.1118342781160333,High_Value_Low_Fee
+U1494,India,41,other,family,0.9,500,0.2,5.0,0,7.99,2023-06-14,"(40, 50]",0.15,low_risk,17.8,Mid_Term,2.050295098793944,Low_Value_High_Fee
+U1291,United Kingdom,48,other,student,5.4,528,0.2,3.0,0,9.99,2024-04-03,"(40, 50]",0.125,low_risk,8.2,Mid_Term,0.4272517321016166,Low_Value_High_Fee
+U1662,United Kingdom,35,male,student,11.3,504,0.1,2.0,0,5.0,2022-05-13,"(30, 40]",0.15,low_risk,30.9,Loyal,0.10218888593676552,High_Value_Low_Fee
+U1101,Kenya,49,other,family,11.0,486,0.2,3.0,0,7.99,2022-06-05,"(40, 50]",0.13,low_risk,30.1,Loyal,0.16775141717404995,Medium_Value
+U1316,United Kingdom,60,male,premium,7.9,533,0.2,2.0,0,7.99,2023-02-20,"(50, 60]",0.245,low_risk,21.6,Loyal,0.23357792264741134,Low_Value_High_Fee
+U1175,United States,36,female,student,10.2,444,0.2,3.0,0,5.0,2022-11-07,"(30, 40]",0.065,low_risk,25.0,Loyal,0.11320925598876964,High_Value_Low_Fee
+U1573,India,64,female,premium,6.3,504,0.2,5.0,1,5.0,2022-12-22,"(60, 100]",0.67,high_risk,23.6,Loyal,0.1832911763627699,Medium_Value
+U1271,Kenya,40,male,family,17.0,500,0.2,4.0,0,9.99,2022-11-07,"(30, 40]",0.08,low_risk,25.0,Loyal,0.13571525607933704,Medium_Value
+U1519,Nigeria,20,male,family,1.0,541,0.2,3.0,1,9.99,2022-11-07,"(10, 20]",0.79,high_risk,25.0,Loyal,2.30715935334873,Low_Value_High_Fee
+U1060,India,30,male,premium,8.2,510,0.1,2.0,1,9.99,2022-11-07,"(20, 30]",0.765,high_risk,25.0,Loyal,0.2813608967498451,Low_Value_High_Fee
+U1054,United kingdom,60,male,family,5.2,491,0.2,2.0,0,5.0,2022-11-07,"(50, 60]",0.13,low_risk,25.0,Loyal,0.22206430982412506,Medium_Value
+U1132,United Kingdom,17,female,premium,6.1,551,0.2,3.0,0,0.0,2022-11-07,"(10, 20]",0.34,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1342,Kenya,50,male,family,6.5,505,0.2,1.0,0,7.99,2022-12-24,"(40, 50]",0.235,low_risk,23.5,Loyal,0.28388701367916147,Low_Value_High_Fee
+U1630,Kenya,57,female,premium,2.3,481,0.2,3.0,0,7.99,2023-11-10,"(50, 60]",0.09,low_risk,12.9,Mid_Term,0.8022893864845868,Low_Value_High_Fee
+U1614,United States,34,female,student,19.5,533,0.2,2.0,0,0.0,2023-05-11,"(30, 40]",0.035,low_risk,19.0,Loyal,0.0,High_Value_Low_Fee
+U1666,Kenya,19,male,family,6.7,526,0.2,1.0,0,0.0,2022-10-12,"(10, 20]",0.125,low_risk,25.9,Loyal,0.0,High_Value_Low_Fee
+U1065,South Africa,14,female,student,6.4,488,0.1,4.0,0,9.99,2022-01-01,"(10, 20]",0.16,low_risk,35.2,Loyal,0.360493648960739,Low_Value_High_Fee
+U1312,India,34,male,premium,10.4,469,0.2,2.0,1,0.0,2023-05-11,"(30, 40]",0.765,high_risk,19.0,Loyal,0.0,High_Value_Low_Fee
+U1563,United kingdom,35,other,family,9.2,491,0.2,3.0,0,7.99,2022-11-07,"(30, 40]",0.115,low_risk,25.0,Loyal,0.2005723466211467,Medium_Value
+U1156,India,63,female,family,12.9,530,0.2,4.0,0,9.99,2024-08-27,"(60, 100]",0.32,low_risk,3.4,New_User,0.17884956227509533,Medium_Value
+U1248,Nepal,35,other,student,10.9,482,0.2,4.0,0,7.99,2023-11-30,"(30, 40]",0.145,low_risk,12.3,Mid_Term,0.16929042100133482,Medium_Value
+U1688,Ghana,58,female,student,9.3,502,0.2,3.0,1,9.99,2022-11-07,"(50, 60]",0.775,high_risk,25.0,Loyal,0.24808165089771286,Low_Value_High_Fee
+U1063,Kenya,59,male,free,6.9,486,0.2,3.0,0,9.99,2023-04-12,"(50, 60]",0.08,low_risk,19.9,Loyal,0.3343709207751782,Low_Value_High_Fee
+U1270,South Africa,49,female,family,9.0,486,0.2,3.0,0,9.99,2023-03-04,"(40, 50]",0.24,low_risk,21.2,Loyal,0.25635103926096997,Low_Value_High_Fee
+U1198,United Kingdom,44,male,family,16.4,493,0.2,4.0,0,7.99,2022-01-23,"(40, 50]",0.095,low_risk,34.5,Loyal,0.11251619444600913,High_Value_Low_Fee
+U1462,United Kingdom,64,female,student,11.0,505,0.2,5.0,0,9.99,2022-01-18,"(60, 100]",0.165,low_risk,34.7,Loyal,0.20974175939533907,Medium_Value
+U1509,India,38,male,family,2.0,484,0.2,3.0,0,0.0,2022-11-07,"(30, 40]",0.125,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1254,Brazil,26,unknown,student,15.7,507,0.2,5.0,1,9.99,2022-11-07,"(20, 30]",0.755,high_risk,25.0,Loyal,0.14695282505405924,Medium_Value
+U1526,South Africa,38,other,premium,9.0,523,0.2,2.0,0,5.0,2022-11-07,"(30, 40]",0.24,low_risk,25.0,Loyal,0.12830382345393893,Medium_Value
+U1331,India,43,unknown,student,20.1,457,0.2,5.0,1,7.99,2022-03-14,"(40, 50]",0.76,high_risk,32.9,Loyal,0.09180425815495272,High_Value_Low_Fee
+U1288,United States,57,female,family,11.8,530,0.2,1.0,0,7.99,2022-11-07,"(50, 60]",0.13,low_risk,25.0,Loyal,0.15637843973852117,Medium_Value
+U1245,India,26,male,family,9.3,496,0.2,2.0,1,0.0,2022-11-02,"(20, 30]",0.715,high_risk,25.2,Loyal,0.0,High_Value_Low_Fee
+U1560,Nigeria,38,unknown,premium,17.6,505,0.2,4.0,0,0.0,2022-11-07,"(30, 40]",0.415,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1062,United States,17,male,free,11.5,512,0.2,2.0,1,7.99,2024-01-31,"(10, 20]",0.72,high_risk,10.2,Mid_Term,0.16045787729691735,Medium_Value
+U1176,India,17,other,family,9.5,506,0.2,3.0,0,9.99,2023-02-05,"(10, 20]",0.155,low_risk,22.1,Loyal,0.2428588792998663,Low_Value_High_Fee
+U1058,India,47,male,family,7.2,495,0.1,3.0,0,7.99,2023-12-01,"(40, 50]",0.325,low_risk,12.3,Mid_Term,0.256286887349243,Low_Value_High_Fee
+U1672,United Kingdom,35,other,student,11.3,481,0.2,5.0,0,9.99,2022-11-07,"(30, 40]",0.115,low_risk,25.0,Loyal,0.2041733941016575,Medium_Value
+U1333,South Africa,14,female,student,4.8,522,0.2,3.0,0,5.0,2023-09-06,"(10, 20]",0.11,low_risk,15.1,Mid_Term,0.2405696689761355,Low_Value_High_Fee
+U1015,South Africa,30,unknown,student,4.3,500,0.2,1.0,0,9.99,2022-11-07,"(20, 30]",0.46,low_risk,25.0,Loyal,0.536548686825286,Low_Value_High_Fee
+U1595,Kenya,64,other,family,15.9,495,0.2,4.0,0,7.99,2023-02-14,"(60, 100]",0.165,low_risk,21.8,Loyal,0.11605443955437418,High_Value_Low_Fee
+U1650,South Africa,13,unknown,premium,9.0,524,0.2,3.0,0,0.0,2022-07-02,"(10, 20]",0.14,low_risk,29.2,Loyal,0.0,High_Value_Low_Fee
+U1263,United Kingdom,57,male,family,13.9,491,0.1,4.0,1,7.99,2024-01-29,"(50, 60]",0.745,high_risk,10.3,Mid_Term,0.13275292006579492,Medium_Value
+U1223,United kingdom,38,unknown,student,5.8,484,0.2,4.0,1,7.99,2022-04-05,"(30, 40]",0.755,high_risk,32.1,Loyal,0.3181492394680258,Low_Value_High_Fee
+U1671,United States,36,male,family,12.0,481,0.2,2.0,0,7.99,2022-07-16,"(30, 40]",0.06,low_risk,28.8,Loyal,0.15377213240954582,Medium_Value
+U1302,India,53,female,student,13.5,481,0.2,3.0,1,0.0,2022-11-07,"(50, 60]",0.72,high_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1157,India,46,female,family,10.7,485,0.2,4.0,0,9.99,2022-11-07,"(40, 50]",0.22,low_risk,25.0,Loyal,0.21562236947184393,Medium_Value
+U1151,United States,46,female,premium,8.9,546,0.2,3.0,1,9.99,2022-11-07,"(40, 50]",0.745,high_risk,25.0,Loyal,0.25923138801671125,Low_Value_High_Fee
+U1544,United Kingdom,61,female,student,3.1,504,0.2,5.0,0,7.99,2022-11-07,"(60, 100]",0.13,low_risk,25.0,Loyal,0.5952469641659838,Low_Value_High_Fee
+U1142,United Kingdom,26,unknown,family,7.1,505,0.2,2.0,1,7.99,2022-02-10,"(20, 30]",0.88,high_risk,33.9,Loyal,0.25989656181895066,Low_Value_High_Fee
+U1083,India,61,male,family,9.9,501,0.1,4.0,0,9.99,2022-11-07,"(60, 100]",0.19,low_risk,25.0,Loyal,0.23304639932815452,Low_Value_High_Fee
+U1367,United Kingdom,49,male,free,12.7,511,0.2,1.0,0,7.99,2022-11-07,"(40, 50]",0.08,low_risk,25.0,Loyal,0.14529650306413777,Medium_Value
+U1577,India,64,male,premium,7.6,461,0.2,1.0,0,9.99,2022-11-07,"(60, 100]",0.115,low_risk,25.0,Loyal,0.30357359912483284,Low_Value_High_Fee
+U1244,South Africa,34,unknown,free,5.8,496,0.1,3.0,0,7.99,2022-07-12,"(30, 40]",0.205,low_risk,28.9,Loyal,0.3181492394680258,Low_Value_High_Fee
+U1539,United Kingdom,16,unknown,family,0.8,496,0.2,3.0,1,7.99,2022-11-08,"(10, 20]",0.78,high_risk,25.0,Loyal,2.3065819861431867,Low_Value_High_Fee
+U1441,United States,35,female,premium,3.4,499,0.2,5.0,0,0.0,2023-04-03,"(30, 40]",0.135,low_risk,20.2,Loyal,0.0,High_Value_Low_Fee
+U1619,India,13,male,premium,7.6,495,0.2,4.0,1,9.99,2022-03-12,"(10, 20]",0.79,high_risk,32.9,Loyal,0.30357359912483284,Low_Value_High_Fee
+U1627,India,42,unknown,premium,11.1,503,0.2,5.0,0,7.99,2022-04-03,"(40, 50]",0.125,low_risk,32.2,Loyal,0.16624014314545493,Medium_Value
+U1087,Ghana,53,male,premium,4.4,497,0.2,4.0,0,7.99,2024-12-08,"(50, 60]",0.11,low_risk,0.0,New_User,0.4193785429351249,Low_Value_High_Fee
+U1274,United Kingdom,29,female,family,11.0,494,0.2,5.0,0,9.99,2024-06-09,"(20, 30]",0.16,low_risk,6.0,New_User,0.20974175939533907,Medium_Value
+U1550,United States,26,male,premium,14.6,457,0.2,3.0,0,7.99,2022-02-01,"(20, 30]",0.115,low_risk,34.2,Loyal,0.12638805403524314,High_Value_Low_Fee
+U1105,United States,31,male,student,8.0,556,0.2,3.0,0,7.99,2024-11-04,"(30, 40]",0.365,low_risk,1.1,New_User,0.23065819861431872,Low_Value_High_Fee
+U1613,Kenya,32,female,family,16.4,495,0.2,5.0,0,7.99,2022-12-07,"(30, 40]",0.335,low_risk,24.0,Loyal,0.11251619444600913,High_Value_Low_Fee
+U1409,United kingdom,13,female,student,16.5,519,0.2,3.0,0,0.0,2023-11-10,"(10, 20]",0.235,low_risk,12.9,Mid_Term,0.0,High_Value_Low_Fee
+U1072,United kingdom,13,male,premium,9.4,492,0.2,3.0,1,9.99,2022-12-18,"(10, 20]",0.37,low_risk,23.7,Loyal,0.245442484398801,Low_Value_High_Fee
+U1380,United Kingdom,56,female,family,11.5,489,0.2,5.0,1,0.0,2022-12-21,"(50, 60]",0.835,high_risk,23.6,Loyal,0.0,High_Value_Low_Fee
+U1507,India,48,male,free,10.2,482,0.2,3.0,0,5.0,2023-07-04,"(40, 50]",0.05,low_risk,17.2,Mid_Term,0.11320925598876964,High_Value_Low_Fee
+U1435,United Kingdom,52,male,student,13.9,471,0.2,3.0,0,9.99,2022-07-12,"(50, 60]",0.09,low_risk,28.9,Loyal,0.16598268729127552,Medium_Value
+U1559,South Africa,33,male,family,8.5,507,0.2,1.0,1,9.99,2022-11-07,"(30, 40]",0.8,high_risk,25.0,Loyal,0.2714305121586741,Low_Value_High_Fee
+U1003,South Africa,44,unknown,student,11.8,525,0.2,4.0,0,0.0,2022-11-01,"(40, 50]",0.19,low_risk,25.2,Loyal,0.0,High_Value_Low_Fee
+U1109,United Kingdom,21,female,family,16.1,497,0.2,3.0,0,9.99,2022-11-07,"(20, 30]",0.11,low_risk,25.0,Loyal,0.14330182318936208,Medium_Value
+U1052,Ghana,25,male,student,12.7,467,0.2,5.0,0,7.99,2022-11-07,"(20, 30]",0.15,low_risk,25.0,Loyal,0.14529650306413777,Medium_Value
+U1290,United kingdom,59,male,premium,5.8,500,0.2,4.0,0,5.0,2022-11-07,"(50, 60]",0.28,low_risk,25.0,Loyal,0.19909213984231902,Medium_Value
+U1275,Brazil,51,other,student,8.1,484,0.2,4.0,1,7.99,2023-04-06,"(50, 60]",0.7,high_risk,20.1,Loyal,0.22781056653266046,Low_Value_High_Fee
+U1138,United Kingdom,35,other,student,11.4,500,0.2,3.0,0,9.99,2023-01-19,"(30, 40]",0.095,low_risk,22.6,Loyal,0.20238239941655525,Medium_Value
+U1520,United Kingdom,35,male,student,8.9,464,0.1,4.0,1,0.0,2023-11-08,"(30, 40]",0.795,high_risk,13.0,Mid_Term,0.0,High_Value_Low_Fee
+U1498,India,59,female,family,14.4,468,0.2,1.0,0,9.99,2023-02-10,"(50, 60]",0.06,low_risk,21.9,Loyal,0.16021939953810624,Medium_Value
+U1227,India,38,female,student,6.6,551,0.2,3.0,0,9.99,2023-05-06,"(30, 40]",0.49,low_risk,19.1,Loyal,0.3495695989922318,Low_Value_High_Fee
+U1464,United Kingdom,59,other,student,14.4,503,0.2,4.0,1,9.99,2024-02-21,"(50, 60]",0.67,high_risk,9.6,Mid_Term,0.16021939953810624,Medium_Value
+U1235,Nepal,38,unknown,premium,16.6,467,0.2,3.0,0,9.99,2022-11-07,"(30, 40]",0.085,low_risk,25.0,Loyal,0.13898550321377887,Medium_Value
+U1002,Brazil,57,male,family,7.4,524,0.2,1.0,1,7.99,2024-07-10,"(50, 60]",0.775,high_risk,5.0,New_User,0.24936021471818237,Low_Value_High_Fee
+U1135,Nepal,29,male,family,16.6,491,0.2,1.0,0,9.99,2022-11-07,"(20, 30]",0.325,low_risk,25.0,Loyal,0.13898550321377887,Medium_Value
+U1018,India,61,female,student,11.3,486,0.1,3.0,0,7.99,2023-02-13,"(60, 100]",0.325,low_risk,21.8,Loyal,0.1632978397269513,Medium_Value
+U1669,India,13,other,family,4.1,505,0.2,4.0,1,7.99,2023-05-22,"(10, 20]",0.84,high_risk,18.6,Loyal,0.45006477778403653,Low_Value_High_Fee
+U1280,Kenya,29,unknown,free,11.8,486,0.2,4.0,0,9.99,2023-12-15,"(20, 30]",0.14,low_risk,11.8,Mid_Term,0.19552197909734997,Medium_Value
+U1413,Nigeria,20,female,free,15.0,505,0.2,3.0,0,7.99,2022-11-07,"(10, 20]",0.17,low_risk,25.0,Loyal,0.12301770592763664,High_Value_Low_Fee
+U1209,Nigeria,40,other,student,4.5,520,0.2,3.0,0,5.0,2022-03-16,"(30, 40]",0.21,low_risk,32.8,Loyal,0.25660764690787785,Low_Value_High_Fee
+U1127,United Kingdom,15,male,family,15.8,465,0.2,4.0,1,7.99,2022-11-07,"(10, 20]",0.36,low_risk,25.0,Loyal,0.11678896132370567,High_Value_Low_Fee
+U1185,Ghana,63,female,premium,15.4,522,0.2,3.0,0,0.0,2023-08-10,"(60, 100]",0.155,low_risk,16.0,Mid_Term,0.0,High_Value_Low_Fee
+U1030,United States,28,other,premium,4.8,522,0.2,3.0,0,5.0,2023-04-01,"(20, 30]",0.075,low_risk,20.3,Loyal,0.2405696689761355,Low_Value_High_Fee
+U1417,India,26,male,free,7.9,495,0.2,2.0,0,9.99,2022-11-07,"(20, 30]",0.16,low_risk,25.0,Loyal,0.292045487765662,Low_Value_High_Fee
+U1676,Brazil,15,female,premium,13.2,490,0.2,2.0,0,5.0,2023-01-11,"(10, 20]",0.295,low_risk,22.9,Loyal,0.08747987962768564,High_Value_Low_Fee
+U1019,United kingdom,26,male,student,10.0,485,0.2,3.0,0,0.0,2022-11-07,"(20, 30]",0.125,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1273,South Africa,51,female,premium,9.7,467,0.2,4.0,1,0.0,2022-11-07,"(50, 60]",0.295,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1252,Ghana,57,female,premium,8.3,483,0.2,3.0,0,7.99,2022-05-20,"(50, 60]",0.265,low_risk,30.7,Loyal,0.22232115529090957,Low_Value_High_Fee
+U1330,India,36,unknown,family,7.8,503,0.2,3.0,0,0.0,2022-11-07,"(30, 40]",0.445,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1449,India,26,male,student,10.8,495,0.2,3.0,0,0.0,2023-04-01,"(20, 30]",0.125,low_risk,20.3,Loyal,0.0,High_Value_Low_Fee
+U1463,South Africa,27,female,premium,11.6,509,0.2,2.0,0,9.99,2023-12-30,"(20, 30]",0.12,low_risk,11.3,Mid_Term,0.1988930477024767,Medium_Value
+U1556,Kenya,13,other,premium,5.8,490,0.2,3.0,1,0.0,2024-09-03,"(10, 20]",0.725,high_risk,3.2,New_User,0.0,High_Value_Low_Fee
+U1395,Nigeria,47,male,premium,8.7,502,0.2,4.0,0,5.0,2023-08-01,"(40, 50]",0.27,low_risk,16.3,Mid_Term,0.1327280932282127,Medium_Value
+U1269,United Kingdom,37,female,student,12.0,456,0.2,2.0,0,9.99,2022-05-11,"(30, 40]",0.105,low_risk,30.9,Loyal,0.1922632794457275,Medium_Value
+U1137,United Kingdom,59,unknown,family,7.5,538,0.2,2.0,1,7.99,2024-04-21,"(50, 60]",0.825,high_risk,7.6,Mid_Term,0.24603541185527328,Low_Value_High_Fee
+U1381,United Kingdom,14,female,premium,13.8,522,0.2,4.0,1,9.99,2022-11-07,"(10, 20]",0.69,high_risk,25.0,Loyal,0.1671854603875891,Medium_Value
+U1131,India,56,other,premium,6.5,517,0.2,2.0,0,7.99,2022-11-07,"(50, 60]",0.215,low_risk,25.0,Loyal,0.28388701367916147,Low_Value_High_Fee
+U1329,United Kingdom,48,male,student,9.7,530,0.2,1.0,0,7.99,2022-11-07,"(40, 50]",0.09,low_risk,25.0,Loyal,0.19023356586747936,Medium_Value
+U1104,United Kingdom,22,female,premium,2.0,497,0.2,5.0,0,9.99,2023-12-07,"(20, 30]",0.455,low_risk,12.1,Mid_Term,1.153579676674365,Low_Value_High_Fee
+U1420,United States,33,male,free,13.8,480,0.2,5.0,0,7.99,2023-11-08,"(30, 40]",0.26,low_risk,13.0,Mid_Term,0.13371489774743112,Medium_Value
+U1377,India,17,male,free,12.4,488,0.2,4.0,1,7.99,2022-11-07,"(10, 20]",0.705,high_risk,25.0,Loyal,0.14881174104149594,Medium_Value
+U1679,United Kingdom,40,other,free,2.1,462,0.2,1.0,0,7.99,2022-06-06,"(30, 40]",0.125,low_risk,30.1,Loyal,0.8786978994831189,Low_Value_High_Fee
+U1095,United States,17,female,free,5.7,472,0.2,4.0,0,0.0,2023-09-30,"(10, 20]",0.105,low_risk,14.3,Mid_Term,0.0,High_Value_Low_Fee
+U1229,United Kingdom,34,unknown,free,19.4,508,0.2,1.0,0,7.99,2022-04-08,"(30, 40]",0.41,low_risk,32.0,Loyal,0.09511678293373968,High_Value_Low_Fee
+U1111,South Africa,13,male,premium,14.0,475,0.2,4.0,0,7.99,2023-11-05,"(10, 20]",0.145,low_risk,13.1,Mid_Term,0.13180468492246783,Medium_Value
+U1296,Kenya,20,male,family,10.5,513,0.1,5.0,0,9.99,2022-11-07,"(10, 20]",0.31,low_risk,25.0,Loyal,0.21972946222368853,Medium_Value
+U1455,Kenya,18,female,family,9.7,499,0.2,3.0,1,0.0,2022-08-22,"(10, 20]",0.305,low_risk,27.6,Loyal,0.0,High_Value_Low_Fee
+U1084,South Africa,25,male,free,14.3,492,0.2,2.0,1,0.0,2022-11-07,"(20, 30]",0.81,high_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1680,Kenya,59,female,student,23.6,495,0.2,2.0,1,5.0,2023-07-31,"(50, 60]",0.69,high_risk,16.3,Mid_Term,0.04892942419853603,High_Value_Low_Fee
+U1418,United Kingdom,42,male,family,6.7,507,0.2,5.0,0,0.0,2024-02-07,"(40, 50]",0.155,low_risk,10.0,Mid_Term,0.0,High_Value_Low_Fee
+U1588,Kenya,29,male,family,8.7,530,0.2,3.0,0,0.0,2024-05-04,"(20, 30]",0.155,low_risk,7.2,Mid_Term,0.0,High_Value_Low_Fee
+U1667,Ghana,41,female,premium,14.4,512,0.2,4.0,0,9.99,2022-05-07,"(40, 50]",0.155,low_risk,31.1,Loyal,0.16021939953810624,Medium_Value
+U1584,United Kingdom,30,male,student,19.2,458,0.2,4.0,0,7.99,2023-07-21,"(20, 30]",0.425,low_risk,16.6,Mid_Term,0.09610758275596613,High_Value_Low_Fee
+U1143,India,14,unknown,premium,10.2,518,0.2,4.0,0,9.99,2024-03-03,"(10, 20]",0.51,low_risk,9.2,Mid_Term,0.22619209346556177,Low_Value_High_Fee
+U1524,India,55,male,premium,5.5,517,0.2,4.0,0,0.0,2022-11-07,"(50, 60]",0.14,low_risk,25.0,Loyal,0.0,High_Value_Low_Fee
+U1046,Kenya,48,female,free,1.0,562,0.2,5.0,0,0.0,2022-02-06,"(40, 50]",0.19,low_risk,34.0,Loyal,0.0,High_Value_Low_Fee
+U1022,Nepal,13,female,family,7.8,498,0.2,5.0,0,7.99,2022-05-12,"(10, 20]",0.12,low_risk,30.9,Loyal,0.23657251139930124,Low_Value_High_Fee
